@@ -1,0 +1,60 @@
+{
+  "chief_complaint": "Bilateral joint pain and stiffness in the morning",
+  "vitals": {
+    "bp": "124/76",
+    "hr": 72,
+    "temp_f": 98.3,
+    "spo2": 99
+  },
+  "medications": [
+    {
+      "name": "Amoxicillin",
+      "dose": "875 mg",
+      "frequency": "twice daily",
+      "route": "oral"
+    },
+    {
+      "name": "Metoprolol",
+      "dose": "25 mg",
+      "frequency": "twice daily",
+      "route": "oral"
+    },
+    {
+      "name": "Albuterol",
+      "dose": "90 mcg",
+      "frequency": "as needed",
+      "route": "inhaled"
+    },
+    {
+      "name": "Pantoprazole",
+      "dose": "40 mg",
+      "frequency": "once daily",
+      "route": "oral"
+    }
+  ],
+  "diagnoses": [
+    {
+      "description": "Acute otitis media",
+      "icd10": "H66.90"
+    },
+    {
+      "description": "Allergic rhinitis",
+      "icd10": "J30.9"
+    },
+    {
+      "description": "Hyperlipidemia",
+      "icd10": "E78.5"
+    }
+  ],
+  "plan": [
+    "Urine culture ordered",
+    "Low-sodium diet; limit to less than 2 g sodium per day",
+    "Follow up with cardiology for further evaluation",
+    "Glucose monitoring twice daily",
+    "Elevate affected limb when resting"
+  ],
+  "follow_up": {
+    "interval_days": 30,
+    "reason": "Thyroid level recheck"
+  }
+}

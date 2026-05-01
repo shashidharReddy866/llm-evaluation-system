@@ -1,0 +1,34 @@
+{
+  "chief_complaint": "Heart palpitations and racing heart for 2 hours",
+  "vitals": {
+    "bp": "158/96",
+    "hr": 106,
+    "temp_f": 101.8,
+    "spo2": 94
+  },
+  "medications": [
+    {
+      "name": "Albuterol",
+      "dose": "90 mcg",
+      "frequency": "as needed",
+      "route": "inhaled"
+    }
+  ],
+  "diagnoses": [
+    {
+      "description": "Community-acquired pneumonia",
+      "icd10": "J18.9"
+    }
+  ],
+  "plan": [
+    "Continue current medications as prescribed",
+    "Physical therapy referral placed",
+    "Return to ER if symptoms worsen",
+    "Elevate affected limb when resting",
+    "Low-sodium diet; limit to less than 2 g sodium per day"
+  ],
+  "follow_up": {
+    "interval_days": 7,
+    "reason": "Post-operative wound check"
+  }
+}

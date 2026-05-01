@@ -1,0 +1,53 @@
+{
+  "chief_complaint": "Nausea and vomiting since this morning",
+  "vitals": {
+    "bp": "144/90",
+    "hr": 98,
+    "temp_f": 101.0,
+    "spo2": 96
+  },
+  "medications": [
+    {
+      "name": "Lisinopril",
+      "dose": "10 mg",
+      "frequency": "once daily",
+      "route": "oral"
+    },
+    {
+      "name": "Azithromycin",
+      "dose": "500 mg",
+      "frequency": "once daily",
+      "route": "oral"
+    },
+    {
+      "name": "Metformin",
+      "dose": "500 mg",
+      "frequency": "twice daily",
+      "route": "oral"
+    }
+  ],
+  "diagnoses": [
+    {
+      "description": "Low back pain",
+      "icd10": "M54.5"
+    },
+    {
+      "description": "Acute appendicitis",
+      "icd10": "K35.80"
+    },
+    {
+      "description": "Asthma, mild persistent",
+      "icd10": "J45.20"
+    }
+  ],
+  "plan": [
+    "Pulmonary function tests ordered",
+    "Chest X-ray ordered",
+    "Low-sodium diet; limit to less than 2 g sodium per day",
+    "Avoid NSAIDs due to renal function"
+  ],
+  "follow_up": {
+    "interval_days": 45,
+    "reason": "Cardiology follow-up coordination"
+  }
+}

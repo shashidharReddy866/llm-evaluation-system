@@ -1,0 +1,41 @@
+{
+  "chief_complaint": "Spreading red rash on arms and trunk for 4 days",
+  "vitals": {
+    "bp": "120/74",
+    "hr": 70,
+    "temp_f": 97.9,
+    "spo2": 99
+  },
+  "medications": [
+    {
+      "name": "Pantoprazole",
+      "dose": "40 mg",
+      "frequency": "once daily",
+      "route": "oral"
+    },
+    {
+      "name": "Metoprolol",
+      "dose": "25 mg",
+      "frequency": "twice daily",
+      "route": "oral"
+    }
+  ],
+  "diagnoses": [
+    {
+      "description": "Acute bronchitis",
+      "icd10": "J20.9"
+    }
+  ],
+  "plan": [
+    "Pulmonary function tests ordered",
+    "Sleep hygiene counseling provided",
+    "Smoking cessation counseling referral placed",
+    "Chest X-ray ordered",
+    "Dietary counseling referral placed",
+    "Thyroid function tests ordered"
+  ],
+  "follow_up": {
+    "interval_days": 10,
+    "reason": "Symptom reassessment"
+  }
+}

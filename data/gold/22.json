@@ -1,0 +1,46 @@
+{
+  "chief_complaint": "Shortness of breath on exertion and at rest for 3 days",
+  "vitals": {
+    "bp": "142/88",
+    "hr": 92,
+    "temp_f": 100.2,
+    "spo2": 97
+  },
+  "medications": [
+    {
+      "name": "Albuterol",
+      "dose": "90 mcg",
+      "frequency": "as needed",
+      "route": "inhaled"
+    },
+    {
+      "name": "Metoprolol",
+      "dose": "25 mg",
+      "frequency": "twice daily",
+      "route": "oral"
+    },
+    {
+      "name": "Prednisone",
+      "dose": "10 mg",
+      "frequency": "once daily",
+      "route": "oral"
+    }
+  ],
+  "diagnoses": [
+    {
+      "description": "Acute appendicitis",
+      "icd10": "K35.80"
+    }
+  ],
+  "plan": [
+    "Urine culture ordered",
+    "Smoking cessation counseling referral placed",
+    "Topical steroid cream applied to affected area twice daily",
+    "Low-sodium diet; limit to less than 2 g sodium per day",
+    "Continue current medications as prescribed"
+  ],
+  "follow_up": {
+    "interval_days": 90,
+    "reason": "Cardiology follow-up coordination"
+  }
+}

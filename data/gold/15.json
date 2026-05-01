@@ -1,0 +1,49 @@
+{
+  "chief_complaint": "Sore throat with difficulty swallowing for 3 days",
+  "vitals": {
+    "bp": "116/72",
+    "hr": 64,
+    "temp_f": 98.1,
+    "spo2": 100
+  },
+  "medications": [
+    {
+      "name": "Atorvastatin",
+      "dose": "20 mg",
+      "frequency": "once daily at bedtime",
+      "route": "oral"
+    },
+    {
+      "name": "Acetaminophen",
+      "dose": "500 mg",
+      "frequency": "every 6 hours as needed",
+      "route": "oral"
+    },
+    {
+      "name": "Albuterol",
+      "dose": "90 mcg",
+      "frequency": "as needed",
+      "route": "inhaled"
+    }
+  ],
+  "diagnoses": [
+    {
+      "description": "Acute appendicitis",
+      "icd10": "K35.80"
+    },
+    {
+      "description": "Acute otitis media",
+      "icd10": "H66.90"
+    }
+  ],
+  "plan": [
+    "Return to ER if symptoms worsen",
+    "Complete full course of antibiotics",
+    "Sleep hygiene counseling provided",
+    "Physical therapy referral placed"
+  ],
+  "follow_up": {
+    "interval_days": 90,
+    "reason": "Post-operative wound check"
+  }
+}

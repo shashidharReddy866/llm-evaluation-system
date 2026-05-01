@@ -1,0 +1,51 @@
+{
+  "chief_complaint": "Generalized fatigue and weakness for 2 weeks",
+  "vitals": {
+    "bp": "162/98",
+    "hr": 110,
+    "temp_f": 102.1,
+    "spo2": 93
+  },
+  "medications": [
+    {
+      "name": "Hydrochlorothiazide",
+      "dose": "25 mg",
+      "frequency": "once daily",
+      "route": "oral"
+    },
+    {
+      "name": "Metformin",
+      "dose": "500 mg",
+      "frequency": "twice daily",
+      "route": "oral"
+    },
+    {
+      "name": "Ibuprofen",
+      "dose": "400 mg",
+      "frequency": "three times daily",
+      "route": "oral"
+    },
+    {
+      "name": "Losartan",
+      "dose": "50 mg",
+      "frequency": "once daily",
+      "route": "oral"
+    }
+  ],
+  "diagnoses": [
+    {
+      "description": "Acute otitis media",
+      "icd10": "H66.90"
+    }
+  ],
+  "plan": [
+    "Pulmonary function tests ordered",
+    "Monitor blood pressure daily at home",
+    "Smoking cessation counseling referral placed",
+    "Dietary counseling referral placed"
+  ],
+  "follow_up": {
+    "interval_days": 30,
+    "reason": "Imaging review"
+  }
+}

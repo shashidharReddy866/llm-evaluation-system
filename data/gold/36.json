@@ -1,0 +1,39 @@
+{
+  "chief_complaint": "Burning urination and frequency for 2 days",
+  "vitals": {
+    "bp": "136/88",
+    "hr": 90,
+    "temp_f": 99.5,
+    "spo2": 97
+  },
+  "medications": [
+    {
+      "name": "Sertraline",
+      "dose": "50 mg",
+      "frequency": "once daily",
+      "route": "oral"
+    },
+    {
+      "name": "Omeprazole",
+      "dose": "20 mg",
+      "frequency": "once daily",
+      "route": "oral"
+    }
+  ],
+  "diagnoses": [
+    {
+      "description": "Type 2 diabetes mellitus",
+      "icd10": "E11.9"
+    }
+  ],
+  "plan": [
+    "Renal function panel ordered",
+    "Dietary counseling referral placed",
+    "Topical steroid cream applied to affected area twice daily",
+    "Low-sodium diet; limit to less than 2 g sodium per day"
+  ],
+  "follow_up": {
+    "interval_days": 90,
+    "reason": "Symptom reassessment"
+  }
+}

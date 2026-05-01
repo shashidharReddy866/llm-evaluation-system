@@ -1,0 +1,46 @@
+{
+  "chief_complaint": "Lower abdominal cramping pain, onset 2 days ago",
+  "vitals": {
+    "bp": "110/70",
+    "hr": 62,
+    "temp_f": 97.8,
+    "spo2": 99
+  },
+  "medications": [
+    {
+      "name": "Losartan",
+      "dose": "50 mg",
+      "frequency": "once daily",
+      "route": "oral"
+    },
+    {
+      "name": "Sertraline",
+      "dose": "50 mg",
+      "frequency": "once daily",
+      "route": "oral"
+    },
+    {
+      "name": "Hydrochlorothiazide",
+      "dose": "25 mg",
+      "frequency": "once daily",
+      "route": "oral"
+    }
+  ],
+  "diagnoses": [
+    {
+      "description": "Acute appendicitis",
+      "icd10": "K35.80"
+    }
+  ],
+  "plan": [
+    "Thyroid function tests ordered",
+    "Renal function panel ordered",
+    "Monitor blood pressure daily at home",
+    "Increase fluid intake to at least 2 liters per day",
+    "Low-sodium diet; limit to less than 2 g sodium per day"
+  ],
+  "follow_up": {
+    "interval_days": 60,
+    "reason": "Diabetes management review"
+  }
+}

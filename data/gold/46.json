@@ -1,0 +1,36 @@
+{
+  "chief_complaint": "Chronic low back pain, worsening over 2 weeks",
+  "vitals": {
+    "bp": "134/86",
+    "hr": 88,
+    "temp_f": 99.1,
+    "spo2": 96
+  },
+  "medications": [
+    {
+      "name": "Levothyroxine",
+      "dose": "50 mcg",
+      "frequency": "once daily",
+      "route": "oral"
+    }
+  ],
+  "diagnoses": [
+    {
+      "description": "Acute bronchitis",
+      "icd10": "J20.9"
+    },
+    {
+      "description": "Migraine without aura",
+      "icd10": "G43.009"
+    }
+  ],
+  "plan": [
+    "Glucose monitoring twice daily",
+    "Physical therapy referral placed",
+    "Avoid NSAIDs due to renal function"
+  ],
+  "follow_up": {
+    "interval_days": 60,
+    "reason": "Symptom reassessment"
+  }
+}

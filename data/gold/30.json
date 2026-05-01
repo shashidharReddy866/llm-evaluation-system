@@ -1,0 +1,44 @@
+{
+  "chief_complaint": "Generalized fatigue and weakness for 2 weeks",
+  "vitals": {
+    "bp": "162/98",
+    "hr": 110,
+    "temp_f": 102.1,
+    "spo2": 93
+  },
+  "medications": [
+    {
+      "name": "Prednisone",
+      "dose": "10 mg",
+      "frequency": "once daily",
+      "route": "oral"
+    },
+    {
+      "name": "Hydrochlorothiazide",
+      "dose": "25 mg",
+      "frequency": "once daily",
+      "route": "oral"
+    }
+  ],
+  "diagnoses": [
+    {
+      "description": "Community-acquired pneumonia",
+      "icd10": "J18.9"
+    },
+    {
+      "description": "Congestive heart failure",
+      "icd10": "I50.9"
+    }
+  ],
+  "plan": [
+    "Pulmonary function tests ordered",
+    "Weight loss goal: 5 lbs per month",
+    "Thyroid function tests ordered",
+    "ECG ordered",
+    "Avoid NSAIDs due to renal function"
+  ],
+  "follow_up": {
+    "interval_days": 45,
+    "reason": "Review lab results and adjust medications"
+  }
+}

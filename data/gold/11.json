@@ -1,0 +1,47 @@
+{
+  "chief_complaint": "Spreading red rash on arms and trunk for 4 days",
+  "vitals": {
+    "bp": "120/74",
+    "hr": 70,
+    "temp_f": 97.9,
+    "spo2": 99
+  },
+  "medications": [
+    {
+      "name": "Acetaminophen",
+      "dose": "500 mg",
+      "frequency": "every 6 hours as needed",
+      "route": "oral"
+    },
+    {
+      "name": "Amlodipine",
+      "dose": "5 mg",
+      "frequency": "once daily",
+      "route": "oral"
+    }
+  ],
+  "diagnoses": [
+    {
+      "description": "Major depressive disorder",
+      "icd10": "F32.9"
+    },
+    {
+      "description": "Allergic rhinitis",
+      "icd10": "J30.9"
+    },
+    {
+      "description": "Cellulitis",
+      "icd10": "L03.90"
+    }
+  ],
+  "plan": [
+    "Complete full course of antibiotics",
+    "Pulmonary function tests ordered",
+    "Topical steroid cream applied to affected area twice daily",
+    "Rest and avoid strenuous activity for 1 week"
+  ],
+  "follow_up": {
+    "interval_days": 7,
+    "reason": "Cardiology follow-up coordination"
+  }
+}

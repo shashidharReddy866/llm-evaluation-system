@@ -1,0 +1,42 @@
+{
+  "chief_complaint": "Productive cough with yellow sputum for 5 days",
+  "vitals": {
+    "bp": "122/78",
+    "hr": 74,
+    "temp_f": 98.2,
+    "spo2": 99
+  },
+  "medications": [
+    {
+      "name": "Pantoprazole",
+      "dose": "40 mg",
+      "frequency": "once daily",
+      "route": "oral"
+    }
+  ],
+  "diagnoses": [
+    {
+      "description": "Allergic rhinitis",
+      "icd10": "J30.9"
+    },
+    {
+      "description": "Hyperlipidemia",
+      "icd10": "E78.5"
+    },
+    {
+      "description": "Acute bronchitis",
+      "icd10": "J20.9"
+    }
+  ],
+  "plan": [
+    "Avoid NSAIDs due to renal function",
+    "Dietary counseling referral placed",
+    "Start new medication as prescribed today",
+    "Physical therapy referral placed",
+    "Increase fluid intake to at least 2 liters per day"
+  ],
+  "follow_up": {
+    "interval_days": 45,
+    "reason": "Imaging review"
+  }
+}

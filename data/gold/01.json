@@ -1,32 +1,40 @@
 {
-  "chief_complaint": "Sharp chest pain radiating to left arm",
+  "chief_complaint": "Chest pain radiating to the left arm, worse with exertion",
   "vitals": {
-    "bp": "130/84",
-    "hr": 88,
-    "temp_f": 98.6,
-    "spo2": 98
+    "bp": "118/76",
+    "hr": 68,
+    "temp_f": 98.4,
+    "spo2": 99
   },
   "medications": [
     {
-      "name": "aspirin",
-      "dose": "81 mg",
-      "frequency": "daily",
+      "name": "Metformin",
+      "dose": "500 mg",
+      "frequency": "twice daily",
       "route": "oral"
     }
   ],
   "diagnoses": [
     {
-      "description": "possible angina",
-      "icd10": null
+      "description": "Hypothyroidism",
+      "icd10": "E03.9"
+    },
+    {
+      "description": "Hyperlipidemia",
+      "icd10": "E78.5"
+    },
+    {
+      "description": "Urinary tract infection",
+      "icd10": "N39.0"
     }
   ],
   "plan": [
-    "order ECG",
-    "start aspirin",
-    "follow up in 2 days if pain persists"
+    "Avoid NSAIDs due to renal function",
+    "Sleep hygiene counseling provided",
+    "Return to ER if symptoms worsen"
   ],
   "follow_up": {
-    "interval_days": 2,
-    "reason": "recheck chest pain"
+    "interval_days": 10,
+    "reason": "Cardiology follow-up coordination"
   }
 }

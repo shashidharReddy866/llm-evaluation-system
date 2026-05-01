@@ -1,0 +1,54 @@
+{
+  "chief_complaint": "Burning urination and frequency for 2 days",
+  "vitals": {
+    "bp": "136/88",
+    "hr": 90,
+    "temp_f": 99.5,
+    "spo2": 97
+  },
+  "medications": [
+    {
+      "name": "Sertraline",
+      "dose": "50 mg",
+      "frequency": "once daily",
+      "route": "oral"
+    },
+    {
+      "name": "Amlodipine",
+      "dose": "5 mg",
+      "frequency": "once daily",
+      "route": "oral"
+    },
+    {
+      "name": "Pantoprazole",
+      "dose": "40 mg",
+      "frequency": "once daily",
+      "route": "oral"
+    },
+    {
+      "name": "Azithromycin",
+      "dose": "500 mg",
+      "frequency": "once daily",
+      "route": "oral"
+    }
+  ],
+  "diagnoses": [
+    {
+      "description": "Chronic obstructive pulmonary disease",
+      "icd10": "J44.1"
+    },
+    {
+      "description": "Acute pharyngitis",
+      "icd10": "J02.9"
+    }
+  ],
+  "plan": [
+    "Avoid NSAIDs due to renal function",
+    "Weight loss goal: 5 lbs per month",
+    "Start new medication as prescribed today"
+  ],
+  "follow_up": {
+    "interval_days": 7,
+    "reason": "Symptom reassessment"
+  }
+}

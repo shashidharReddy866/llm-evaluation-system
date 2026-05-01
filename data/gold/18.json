@@ -1,0 +1,33 @@
+{
+  "chief_complaint": "Red, itchy, watery eyes for 3 days",
+  "vitals": {
+    "bp": "152/94",
+    "hr": 102,
+    "temp_f": 100.6,
+    "spo2": 95
+  },
+  "medications": [
+    {
+      "name": "Furosemide",
+      "dose": "40 mg",
+      "frequency": "once daily",
+      "route": "oral"
+    }
+  ],
+  "diagnoses": [
+    {
+      "description": "Community-acquired pneumonia",
+      "icd10": "J18.9"
+    }
+  ],
+  "plan": [
+    "Rest and avoid strenuous activity for 1 week",
+    "Chest X-ray ordered",
+    "Renal function panel ordered",
+    "Apply ice pack to affected area 20 minutes three times daily"
+  ],
+  "follow_up": {
+    "interval_days": 60,
+    "reason": "Review lab results and adjust medications"
+  }
+}

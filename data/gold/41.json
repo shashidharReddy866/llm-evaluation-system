@@ -1,0 +1,61 @@
+{
+  "chief_complaint": "Chest pain radiating to the left arm, worse with exertion",
+  "vitals": {
+    "bp": "118/76",
+    "hr": 68,
+    "temp_f": 98.4,
+    "spo2": 99
+  },
+  "medications": [
+    {
+      "name": "Lisinopril",
+      "dose": "10 mg",
+      "frequency": "once daily",
+      "route": "oral"
+    },
+    {
+      "name": "Sertraline",
+      "dose": "50 mg",
+      "frequency": "once daily",
+      "route": "oral"
+    },
+    {
+      "name": "Azithromycin",
+      "dose": "500 mg",
+      "frequency": "once daily",
+      "route": "oral"
+    },
+    {
+      "name": "Prednisone",
+      "dose": "10 mg",
+      "frequency": "once daily",
+      "route": "oral"
+    }
+  ],
+  "diagnoses": [
+    {
+      "description": "Chronic kidney disease, stage 2",
+      "icd10": "N18.2"
+    },
+    {
+      "description": "Essential hypertension",
+      "icd10": "I10"
+    },
+    {
+      "description": "Congestive heart failure",
+      "icd10": "I50.9"
+    }
+  ],
+  "plan": [
+    "Renal function panel ordered",
+    "Continue current medications as prescribed",
+    "Pulmonary function tests ordered",
+    "Glucose monitoring twice daily",
+    "ECG ordered",
+    "Chest X-ray ordered"
+  ],
+  "follow_up": {
+    "interval_days": 21,
+    "reason": "Medication side effect monitoring"
+  }
+}

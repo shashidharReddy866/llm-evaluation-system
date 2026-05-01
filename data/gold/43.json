@@ -1,0 +1,41 @@
+{
+  "chief_complaint": "Severe throbbing headache, 8/10 pain, started yesterday",
+  "vitals": {
+    "bp": "128/82",
+    "hr": 78,
+    "temp_f": 98.6,
+    "spo2": 98
+  },
+  "medications": [
+    {
+      "name": "Atorvastatin",
+      "dose": "20 mg",
+      "frequency": "once daily at bedtime",
+      "route": "oral"
+    }
+  ],
+  "diagnoses": [
+    {
+      "description": "Chronic obstructive pulmonary disease",
+      "icd10": "J44.1"
+    },
+    {
+      "description": "Urinary tract infection",
+      "icd10": "N39.0"
+    },
+    {
+      "description": "Acute pharyngitis",
+      "icd10": "J02.9"
+    }
+  ],
+  "plan": [
+    "Increase fluid intake to at least 2 liters per day",
+    "Monitor blood pressure daily at home",
+    "ECG ordered",
+    "Smoking cessation counseling referral placed"
+  ],
+  "follow_up": {
+    "interval_days": 21,
+    "reason": "Medication side effect monitoring"
+  }
+}

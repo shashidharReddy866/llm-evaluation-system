@@ -1,0 +1,41 @@
+{
+  "chief_complaint": "Lower abdominal cramping pain, onset 2 days ago",
+  "vitals": {
+    "bp": "110/70",
+    "hr": 62,
+    "temp_f": 97.8,
+    "spo2": 99
+  },
+  "medications": [
+    {
+      "name": "Warfarin",
+      "dose": "5 mg",
+      "frequency": "once daily",
+      "route": "oral"
+    },
+    {
+      "name": "Atorvastatin",
+      "dose": "20 mg",
+      "frequency": "once daily at bedtime",
+      "route": "oral"
+    }
+  ],
+  "diagnoses": [
+    {
+      "description": "Acute bronchitis",
+      "icd10": "J20.9"
+    }
+  ],
+  "plan": [
+    "Monitor blood pressure daily at home",
+    "Urine culture ordered",
+    "Weight loss goal: 5 lbs per month",
+    "Pulmonary function tests ordered",
+    "Rest and avoid strenuous activity for 1 week",
+    "Avoid NSAIDs due to renal function"
+  ],
+  "follow_up": {
+    "interval_days": 45,
+    "reason": "Post-operative wound check"
+  }
+}

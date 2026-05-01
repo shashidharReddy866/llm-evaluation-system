@@ -1,0 +1,54 @@
+{
+  "chief_complaint": "Generalized fatigue and weakness for 2 weeks",
+  "vitals": {
+    "bp": "162/98",
+    "hr": 110,
+    "temp_f": 102.1,
+    "spo2": 93
+  },
+  "medications": [
+    {
+      "name": "Furosemide",
+      "dose": "40 mg",
+      "frequency": "once daily",
+      "route": "oral"
+    },
+    {
+      "name": "Metformin",
+      "dose": "500 mg",
+      "frequency": "twice daily",
+      "route": "oral"
+    },
+    {
+      "name": "Amlodipine",
+      "dose": "5 mg",
+      "frequency": "once daily",
+      "route": "oral"
+    }
+  ],
+  "diagnoses": [
+    {
+      "description": "Low back pain",
+      "icd10": "M54.5"
+    },
+    {
+      "description": "Congestive heart failure",
+      "icd10": "I50.9"
+    },
+    {
+      "description": "Hypothyroidism",
+      "icd10": "E03.9"
+    }
+  ],
+  "plan": [
+    "Start new medication as prescribed today",
+    "Glucose monitoring twice daily",
+    "Chest X-ray ordered",
+    "Rest and avoid strenuous activity for 1 week",
+    "Urine culture ordered"
+  ],
+  "follow_up": {
+    "interval_days": 7,
+    "reason": "Diabetes management review"
+  }
+}

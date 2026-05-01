@@ -1,0 +1,42 @@
+{
+  "chief_complaint": "Bilateral ankle swelling for 1 week",
+  "vitals": {
+    "bp": "126/80",
+    "hr": 76,
+    "temp_f": 98.7,
+    "spo2": 98
+  },
+  "medications": [
+    {
+      "name": "Warfarin",
+      "dose": "5 mg",
+      "frequency": "once daily",
+      "route": "oral"
+    }
+  ],
+  "diagnoses": [
+    {
+      "description": "Major depressive disorder",
+      "icd10": "F32.9"
+    },
+    {
+      "description": "Acute appendicitis",
+      "icd10": "K35.80"
+    },
+    {
+      "description": "Chronic obstructive pulmonary disease",
+      "icd10": "J44.1"
+    }
+  ],
+  "plan": [
+    "ECG ordered",
+    "Follow up with cardiology for further evaluation",
+    "Glucose monitoring twice daily",
+    "Return to ER if symptoms worsen",
+    "Complete full course of antibiotics"
+  ],
+  "follow_up": {
+    "interval_days": 21,
+    "reason": "Symptom reassessment"
+  }
+}

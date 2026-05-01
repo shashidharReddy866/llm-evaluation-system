@@ -1,0 +1,49 @@
+{
+  "chief_complaint": "Bilateral ankle swelling for 1 week",
+  "vitals": {
+    "bp": "126/80",
+    "hr": 76,
+    "temp_f": 98.7,
+    "spo2": 98
+  },
+  "medications": [
+    {
+      "name": "Omeprazole",
+      "dose": "20 mg",
+      "frequency": "once daily",
+      "route": "oral"
+    },
+    {
+      "name": "Ibuprofen",
+      "dose": "400 mg",
+      "frequency": "three times daily",
+      "route": "oral"
+    }
+  ],
+  "diagnoses": [
+    {
+      "description": "Gastroesophageal reflux disease",
+      "icd10": "K21.0"
+    },
+    {
+      "description": "Hypothyroidism",
+      "icd10": "E03.9"
+    },
+    {
+      "description": "Cellulitis",
+      "icd10": "L03.90"
+    }
+  ],
+  "plan": [
+    "Apply ice pack to affected area 20 minutes three times daily",
+    "Return to ER if symptoms worsen",
+    "Follow up with cardiology for further evaluation",
+    "Topical steroid cream applied to affected area twice daily",
+    "Glucose monitoring twice daily",
+    "ECG ordered"
+  ],
+  "follow_up": {
+    "interval_days": 45,
+    "reason": "Medication side effect monitoring"
+  }
+}

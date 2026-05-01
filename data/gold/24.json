@@ -1,0 +1,52 @@
+{
+  "chief_complaint": "Right knee pain and swelling after a fall",
+  "vitals": {
+    "bp": "156/94",
+    "hr": 104,
+    "temp_f": 101.4,
+    "spo2": 95
+  },
+  "medications": [
+    {
+      "name": "Losartan",
+      "dose": "50 mg",
+      "frequency": "once daily",
+      "route": "oral"
+    },
+    {
+      "name": "Acetaminophen",
+      "dose": "500 mg",
+      "frequency": "every 6 hours as needed",
+      "route": "oral"
+    },
+    {
+      "name": "Metformin",
+      "dose": "500 mg",
+      "frequency": "twice daily",
+      "route": "oral"
+    }
+  ],
+  "diagnoses": [
+    {
+      "description": "Low back pain",
+      "icd10": "M54.5"
+    },
+    {
+      "description": "Major depressive disorder",
+      "icd10": "F32.9"
+    },
+    {
+      "description": "Acute appendicitis",
+      "icd10": "K35.80"
+    }
+  ],
+  "plan": [
+    "Complete full course of antibiotics",
+    "Monitor blood pressure daily at home",
+    "Start new medication as prescribed today"
+  ],
+  "follow_up": {
+    "interval_days": 10,
+    "reason": "Imaging review"
+  }
+}

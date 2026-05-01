@@ -1,0 +1,55 @@
+{
+  "chief_complaint": "Chronic low back pain, worsening over 2 weeks",
+  "vitals": {
+    "bp": "134/86",
+    "hr": 88,
+    "temp_f": 99.1,
+    "spo2": 96
+  },
+  "medications": [
+    {
+      "name": "Omeprazole",
+      "dose": "20 mg",
+      "frequency": "once daily",
+      "route": "oral"
+    },
+    {
+      "name": "Metoprolol",
+      "dose": "25 mg",
+      "frequency": "twice daily",
+      "route": "oral"
+    },
+    {
+      "name": "Levothyroxine",
+      "dose": "50 mcg",
+      "frequency": "once daily",
+      "route": "oral"
+    }
+  ],
+  "diagnoses": [
+    {
+      "description": "Acute pharyngitis",
+      "icd10": "J02.9"
+    },
+    {
+      "description": "Low back pain",
+      "icd10": "M54.5"
+    },
+    {
+      "description": "Chronic kidney disease, stage 2",
+      "icd10": "N18.2"
+    }
+  ],
+  "plan": [
+    "Return to ER if symptoms worsen",
+    "Continue current medications as prescribed",
+    "Start new medication as prescribed today",
+    "Low-sodium diet; limit to less than 2 g sodium per day",
+    "Complete full course of antibiotics",
+    "Topical steroid cream applied to affected area twice daily"
+  ],
+  "follow_up": {
+    "interval_days": 7,
+    "reason": "Thyroid level recheck"
+  }
+}

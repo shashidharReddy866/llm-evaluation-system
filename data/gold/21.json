@@ -1,0 +1,46 @@
+{
+  "chief_complaint": "Chest pain radiating to the left arm, worse with exertion",
+  "vitals": {
+    "bp": "118/76",
+    "hr": 68,
+    "temp_f": 98.4,
+    "spo2": 99
+  },
+  "medications": [
+    {
+      "name": "Prednisone",
+      "dose": "10 mg",
+      "frequency": "once daily",
+      "route": "oral"
+    },
+    {
+      "name": "Amlodipine",
+      "dose": "5 mg",
+      "frequency": "once daily",
+      "route": "oral"
+    }
+  ],
+  "diagnoses": [
+    {
+      "description": "Hyperlipidemia",
+      "icd10": "E78.5"
+    },
+    {
+      "description": "Migraine without aura",
+      "icd10": "G43.009"
+    },
+    {
+      "description": "Anemia, unspecified",
+      "icd10": "D64.9"
+    }
+  ],
+  "plan": [
+    "Dietary counseling referral placed",
+    "Low-sodium diet; limit to less than 2 g sodium per day",
+    "Chest X-ray ordered"
+  ],
+  "follow_up": {
+    "interval_days": 45,
+    "reason": "Diabetes management review"
+  }
+}

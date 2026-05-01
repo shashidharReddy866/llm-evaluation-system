@@ -1,0 +1,42 @@
+{
+  "chief_complaint": "Left ear pain and decreased hearing for 4 days",
+  "vitals": {
+    "bp": "130/84",
+    "hr": 80,
+    "temp_f": 98.5,
+    "spo2": 98
+  },
+  "medications": [
+    {
+      "name": "Prednisone",
+      "dose": "10 mg",
+      "frequency": "once daily",
+      "route": "oral"
+    },
+    {
+      "name": "Ibuprofen",
+      "dose": "400 mg",
+      "frequency": "three times daily",
+      "route": "oral"
+    }
+  ],
+  "diagnoses": [
+    {
+      "description": "Hyperlipidemia",
+      "icd10": "E78.5"
+    },
+    {
+      "description": "Urinary tract infection",
+      "icd10": "N39.0"
+    }
+  ],
+  "plan": [
+    "Topical steroid cream applied to affected area twice daily",
+    "Start new medication as prescribed today",
+    "Chest X-ray ordered"
+  ],
+  "follow_up": {
+    "interval_days": 21,
+    "reason": "Assess response to antibiotics"
+  }
+}

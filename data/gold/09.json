@@ -1,0 +1,33 @@
+{
+  "chief_complaint": "Dizziness and lightheadedness, worse on standing",
+  "vitals": {
+    "bp": "138/84",
+    "hr": 82,
+    "temp_f": 98.9,
+    "spo2": 97
+  },
+  "medications": [
+    {
+      "name": "Lisinopril",
+      "dose": "10 mg",
+      "frequency": "once daily",
+      "route": "oral"
+    }
+  ],
+  "diagnoses": [
+    {
+      "description": "Urinary tract infection",
+      "icd10": "N39.0"
+    }
+  ],
+  "plan": [
+    "Avoid NSAIDs due to renal function",
+    "Chest X-ray ordered",
+    "Dietary counseling referral placed",
+    "Low-sodium diet; limit to less than 2 g sodium per day"
+  ],
+  "follow_up": {
+    "interval_days": 60,
+    "reason": "Symptom reassessment"
+  }
+}

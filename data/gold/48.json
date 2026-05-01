@@ -1,0 +1,47 @@
+{
+  "chief_complaint": "High-grade fever for 3 days with chills",
+  "vitals": {
+    "bp": "148/92",
+    "hr": 96,
+    "temp_f": 100.8,
+    "spo2": 94
+  },
+  "medications": [
+    {
+      "name": "Atorvastatin",
+      "dose": "20 mg",
+      "frequency": "once daily at bedtime",
+      "route": "oral"
+    },
+    {
+      "name": "Acetaminophen",
+      "dose": "500 mg",
+      "frequency": "every 6 hours as needed",
+      "route": "oral"
+    },
+    {
+      "name": "Hydrochlorothiazide",
+      "dose": "25 mg",
+      "frequency": "once daily",
+      "route": "oral"
+    }
+  ],
+  "diagnoses": [
+    {
+      "description": "Chronic obstructive pulmonary disease",
+      "icd10": "J44.1"
+    }
+  ],
+  "plan": [
+    "Start new medication as prescribed today",
+    "Chest X-ray ordered",
+    "Pulmonary function tests ordered",
+    "Weight loss goal: 5 lbs per month",
+    "Urine culture ordered",
+    "Complete full course of antibiotics"
+  ],
+  "follow_up": {
+    "interval_days": 60,
+    "reason": "Assess response to antibiotics"
+  }
+}

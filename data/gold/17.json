@@ -1,0 +1,35 @@
+{
+  "chief_complaint": "Left ear pain and decreased hearing for 4 days",
+  "vitals": {
+    "bp": "130/84",
+    "hr": 80,
+    "temp_f": 98.5,
+    "spo2": 98
+  },
+  "medications": [
+    {
+      "name": "Albuterol",
+      "dose": "90 mcg",
+      "frequency": "as needed",
+      "route": "inhaled"
+    }
+  ],
+  "diagnoses": [
+    {
+      "description": "Acute sinusitis",
+      "icd10": "J01.90"
+    }
+  ],
+  "plan": [
+    "Complete full course of antibiotics",
+    "Chest X-ray ordered",
+    "Rest and avoid strenuous activity for 1 week",
+    "Monitor blood pressure daily at home",
+    "Urine culture ordered",
+    "Elevate affected limb when resting"
+  ],
+  "follow_up": {
+    "interval_days": 10,
+    "reason": "Medication side effect monitoring"
+  }
+}

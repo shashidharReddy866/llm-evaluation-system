@@ -1,0 +1,48 @@
+{
+  "chief_complaint": "Sore throat with difficulty swallowing for 3 days",
+  "vitals": {
+    "bp": "116/72",
+    "hr": 64,
+    "temp_f": 98.1,
+    "spo2": 100
+  },
+  "medications": [
+    {
+      "name": "Acetaminophen",
+      "dose": "500 mg",
+      "frequency": "every 6 hours as needed",
+      "route": "oral"
+    },
+    {
+      "name": "Ibuprofen",
+      "dose": "400 mg",
+      "frequency": "three times daily",
+      "route": "oral"
+    }
+  ],
+  "diagnoses": [
+    {
+      "description": "Gastroesophageal reflux disease",
+      "icd10": "K21.0"
+    },
+    {
+      "description": "Acute appendicitis",
+      "icd10": "K35.80"
+    },
+    {
+      "description": "Community-acquired pneumonia",
+      "icd10": "J18.9"
+    }
+  ],
+  "plan": [
+    "Thyroid function tests ordered",
+    "Avoid NSAIDs due to renal function",
+    "Weight loss goal: 5 lbs per month",
+    "Dietary counseling referral placed",
+    "Smoking cessation counseling referral placed"
+  ],
+  "follow_up": {
+    "interval_days": 10,
+    "reason": "Post-operative wound check"
+  }
+}

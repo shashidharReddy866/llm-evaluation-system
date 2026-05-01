@@ -1,0 +1,42 @@
+{
+  "chief_complaint": "Heart palpitations and racing heart for 2 hours",
+  "vitals": {
+    "bp": "158/96",
+    "hr": 106,
+    "temp_f": 101.8,
+    "spo2": 94
+  },
+  "medications": [
+    {
+      "name": "Losartan",
+      "dose": "50 mg",
+      "frequency": "once daily",
+      "route": "oral"
+    },
+    {
+      "name": "Pantoprazole",
+      "dose": "40 mg",
+      "frequency": "once daily",
+      "route": "oral"
+    }
+  ],
+  "diagnoses": [
+    {
+      "description": "Atrial fibrillation",
+      "icd10": "I48.91"
+    },
+    {
+      "description": "Low back pain",
+      "icd10": "M54.5"
+    }
+  ],
+  "plan": [
+    "Glucose monitoring twice daily",
+    "Apply ice pack to affected area 20 minutes three times daily",
+    "Chest X-ray ordered"
+  ],
+  "follow_up": {
+    "interval_days": 45,
+    "reason": "Medication side effect monitoring"
+  }
+}

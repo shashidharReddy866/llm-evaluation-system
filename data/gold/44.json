@@ -1,0 +1,54 @@
+{
+  "chief_complaint": "Right knee pain and swelling after a fall",
+  "vitals": {
+    "bp": "156/94",
+    "hr": 104,
+    "temp_f": 101.4,
+    "spo2": 95
+  },
+  "medications": [
+    {
+      "name": "Metoprolol",
+      "dose": "25 mg",
+      "frequency": "twice daily",
+      "route": "oral"
+    },
+    {
+      "name": "Azithromycin",
+      "dose": "500 mg",
+      "frequency": "once daily",
+      "route": "oral"
+    },
+    {
+      "name": "Losartan",
+      "dose": "50 mg",
+      "frequency": "once daily",
+      "route": "oral"
+    },
+    {
+      "name": "Atorvastatin",
+      "dose": "20 mg",
+      "frequency": "once daily at bedtime",
+      "route": "oral"
+    }
+  ],
+  "diagnoses": [
+    {
+      "description": "Essential hypertension",
+      "icd10": "I10"
+    },
+    {
+      "description": "Asthma, mild persistent",
+      "icd10": "J45.20"
+    }
+  ],
+  "plan": [
+    "Pulmonary function tests ordered",
+    "Elevate affected limb when resting",
+    "Weight loss goal: 5 lbs per month"
+  ],
+  "follow_up": {
+    "interval_days": 10,
+    "reason": "Review lab results and adjust medications"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "chief_complaint": "Dizziness and lightheadedness, worse on standing",
+  "vitals": {
+    "bp": "138/84",
+    "hr": 82,
+    "temp_f": 98.9,
+    "spo2": 97
+  },
+  "medications": [
+    {
+      "name": "Prednisone",
+      "dose": "10 mg",
+      "frequency": "once daily",
+      "route": "oral"
+    }
+  ],
+  "diagnoses": [
+    {
+      "description": "Acute otitis media",
+      "icd10": "H66.90"
+    }
+  ],
+  "plan": [
+    "Apply ice pack to affected area 20 minutes three times daily",
+    "Urine culture ordered",
+    "Pulmonary function tests ordered",
+    "Glucose monitoring twice daily"
+  ],
+  "follow_up": {
+    "interval_days": 21,
+    "reason": "Post-operative wound check"
+  }
+}

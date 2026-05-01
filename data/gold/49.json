@@ -1,0 +1,50 @@
+{
+  "chief_complaint": "Dizziness and lightheadedness, worse on standing",
+  "vitals": {
+    "bp": "138/84",
+    "hr": 82,
+    "temp_f": 98.9,
+    "spo2": 97
+  },
+  "medications": [
+    {
+      "name": "Losartan",
+      "dose": "50 mg",
+      "frequency": "once daily",
+      "route": "oral"
+    },
+    {
+      "name": "Furosemide",
+      "dose": "40 mg",
+      "frequency": "once daily",
+      "route": "oral"
+    },
+    {
+      "name": "Ibuprofen",
+      "dose": "400 mg",
+      "frequency": "three times daily",
+      "route": "oral"
+    }
+  ],
+  "diagnoses": [
+    {
+      "description": "Chronic obstructive pulmonary disease",
+      "icd10": "J44.1"
+    },
+    {
+      "description": "Asthma, mild persistent",
+      "icd10": "J45.20"
+    }
+  ],
+  "plan": [
+    "Smoking cessation counseling referral placed",
+    "Elevate affected limb when resting",
+    "Low-sodium diet; limit to less than 2 g sodium per day",
+    "Monitor blood pressure daily at home",
+    "Urine culture ordered"
+  ],
+  "follow_up": {
+    "interval_days": 21,
+    "reason": "Medication side effect monitoring"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "chief_complaint": "Bilateral joint pain and stiffness in the morning",
+  "vitals": {
+    "bp": "124/76",
+    "hr": 72,
+    "temp_f": 98.3,
+    "spo2": 99
+  },
+  "medications": [
+    {
+      "name": "Prednisone",
+      "dose": "10 mg",
+      "frequency": "once daily",
+      "route": "oral"
+    }
+  ],
+  "diagnoses": [
+    {
+      "description": "Acute pharyngitis",
+      "icd10": "J02.9"
+    },
+    {
+      "description": "Major depressive disorder",
+      "icd10": "F32.9"
+    }
+  ],
+  "plan": [
+    "Follow up with cardiology for further evaluation",
+    "Sleep hygiene counseling provided",
+    "Return to ER if symptoms worsen",
+    "Avoid NSAIDs due to renal function",
+    "Renal function panel ordered",
+    "Complete full course of antibiotics"
+  ],
+  "follow_up": {
+    "interval_days": 21,
+    "reason": "Diabetes management review"
+  }
+}

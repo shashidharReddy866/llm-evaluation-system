@@ -1,0 +1,59 @@
+{
+  "chief_complaint": "Shortness of breath on exertion and at rest for 3 days",
+  "vitals": {
+    "bp": "142/88",
+    "hr": 92,
+    "temp_f": 100.2,
+    "spo2": 97
+  },
+  "medications": [
+    {
+      "name": "Ibuprofen",
+      "dose": "400 mg",
+      "frequency": "three times daily",
+      "route": "oral"
+    },
+    {
+      "name": "Metformin",
+      "dose": "500 mg",
+      "frequency": "twice daily",
+      "route": "oral"
+    },
+    {
+      "name": "Prednisone",
+      "dose": "10 mg",
+      "frequency": "once daily",
+      "route": "oral"
+    },
+    {
+      "name": "Hydrochlorothiazide",
+      "dose": "25 mg",
+      "frequency": "once daily",
+      "route": "oral"
+    }
+  ],
+  "diagnoses": [
+    {
+      "description": "Acute appendicitis",
+      "icd10": "K35.80"
+    },
+    {
+      "description": "Atrial fibrillation",
+      "icd10": "I48.91"
+    },
+    {
+      "description": "Asthma, mild persistent",
+      "icd10": "J45.20"
+    }
+  ],
+  "plan": [
+    "Urine culture ordered",
+    "Complete full course of antibiotics",
+    "Dietary counseling referral placed",
+    "Return to ER if symptoms worsen"
+  ],
+  "follow_up": {
+    "interval_days": 7,
+    "reason": "Symptom reassessment"
+  }
+}

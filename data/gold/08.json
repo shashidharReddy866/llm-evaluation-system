@@ -1,0 +1,40 @@
+{
+  "chief_complaint": "High-grade fever for 3 days with chills",
+  "vitals": {
+    "bp": "148/92",
+    "hr": 96,
+    "temp_f": 100.8,
+    "spo2": 94
+  },
+  "medications": [
+    {
+      "name": "Metoprolol",
+      "dose": "25 mg",
+      "frequency": "twice daily",
+      "route": "oral"
+    },
+    {
+      "name": "Omeprazole",
+      "dose": "20 mg",
+      "frequency": "once daily",
+      "route": "oral"
+    }
+  ],
+  "diagnoses": [
+    {
+      "description": "Asthma, mild persistent",
+      "icd10": "J45.20"
+    }
+  ],
+  "plan": [
+    "Sleep hygiene counseling provided",
+    "Physical therapy referral placed",
+    "Chest X-ray ordered",
+    "ECG ordered",
+    "Pulmonary function tests ordered"
+  ],
+  "follow_up": {
+    "interval_days": 21,
+    "reason": "Assess response to antibiotics"
+  }
+}

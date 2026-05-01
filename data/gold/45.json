@@ -1,0 +1,41 @@
+{
+  "chief_complaint": "Lower abdominal cramping pain, onset 2 days ago",
+  "vitals": {
+    "bp": "110/70",
+    "hr": 62,
+    "temp_f": 97.8,
+    "spo2": 99
+  },
+  "medications": [
+    {
+      "name": "Metformin",
+      "dose": "500 mg",
+      "frequency": "twice daily",
+      "route": "oral"
+    },
+    {
+      "name": "Omeprazole",
+      "dose": "20 mg",
+      "frequency": "once daily",
+      "route": "oral"
+    }
+  ],
+  "diagnoses": [
+    {
+      "description": "Urinary tract infection",
+      "icd10": "N39.0"
+    }
+  ],
+  "plan": [
+    "Avoid NSAIDs due to renal function",
+    "Start new medication as prescribed today",
+    "Physical therapy referral placed",
+    "Apply ice pack to affected area 20 minutes three times daily",
+    "Urine culture ordered",
+    "Monitor blood pressure daily at home"
+  ],
+  "follow_up": {
+    "interval_days": 45,
+    "reason": "Assess response to antibiotics"
+  }
+}

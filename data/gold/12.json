@@ -1,0 +1,36 @@
+{
+  "chief_complaint": "Nausea and vomiting since this morning",
+  "vitals": {
+    "bp": "144/90",
+    "hr": 98,
+    "temp_f": 101.0,
+    "spo2": 96
+  },
+  "medications": [
+    {
+      "name": "Amlodipine",
+      "dose": "5 mg",
+      "frequency": "once daily",
+      "route": "oral"
+    }
+  ],
+  "diagnoses": [
+    {
+      "description": "Major depressive disorder",
+      "icd10": "F32.9"
+    },
+    {
+      "description": "Hyperlipidemia",
+      "icd10": "E78.5"
+    }
+  ],
+  "plan": [
+    "Elevate affected limb when resting",
+    "Physical therapy referral placed",
+    "Low-sodium diet; limit to less than 2 g sodium per day"
+  ],
+  "follow_up": {
+    "interval_days": 10,
+    "reason": "Medication side effect monitoring"
+  }
+}

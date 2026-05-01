@@ -1,0 +1,41 @@
+{
+  "chief_complaint": "Chronic low back pain, worsening over 2 weeks",
+  "vitals": {
+    "bp": "134/86",
+    "hr": 88,
+    "temp_f": 99.1,
+    "spo2": 96
+  },
+  "medications": [
+    {
+      "name": "Losartan",
+      "dose": "50 mg",
+      "frequency": "once daily",
+      "route": "oral"
+    }
+  ],
+  "diagnoses": [
+    {
+      "description": "Gastroesophageal reflux disease",
+      "icd10": "K21.0"
+    },
+    {
+      "description": "Low back pain",
+      "icd10": "M54.5"
+    },
+    {
+      "description": "Asthma, mild persistent",
+      "icd10": "J45.20"
+    }
+  ],
+  "plan": [
+    "Rest and avoid strenuous activity for 1 week",
+    "Urine culture ordered",
+    "ECG ordered",
+    "Monitor blood pressure daily at home"
+  ],
+  "follow_up": {
+    "interval_days": 21,
+    "reason": "Thyroid level recheck"
+  }
+}

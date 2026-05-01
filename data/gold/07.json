@@ -1,0 +1,37 @@
+{
+  "chief_complaint": "Productive cough with yellow sputum for 5 days",
+  "vitals": {
+    "bp": "122/78",
+    "hr": 74,
+    "temp_f": 98.2,
+    "spo2": 99
+  },
+  "medications": [
+    {
+      "name": "Hydrochlorothiazide",
+      "dose": "25 mg",
+      "frequency": "once daily",
+      "route": "oral"
+    }
+  ],
+  "diagnoses": [
+    {
+      "description": "Hypothyroidism",
+      "icd10": "E03.9"
+    },
+    {
+      "description": "Community-acquired pneumonia",
+      "icd10": "J18.9"
+    }
+  ],
+  "plan": [
+    "Physical therapy referral placed",
+    "Follow up with cardiology for further evaluation",
+    "Smoking cessation counseling referral placed",
+    "Apply ice pack to affected area 20 minutes three times daily"
+  ],
+  "follow_up": {
+    "interval_days": 90,
+    "reason": "Symptom reassessment"
+  }
+}

@@ -1,32 +1,49 @@
 {
-  "chief_complaint": "Headache behind the eyes with light sensitivity",
+  "chief_complaint": "Severe throbbing headache, 8/10 pain, started yesterday",
   "vitals": {
-    "bp": "122/80",
-    "hr": 72,
-    "temp_f": 99.1,
-    "spo2": 97
+    "bp": "128/82",
+    "hr": 78,
+    "temp_f": 98.6,
+    "spo2": 98
   },
   "medications": [
     {
-      "name": "acetaminophen",
-      "dose": "as needed",
-      "frequency": "as needed",
+      "name": "Metformin",
+      "dose": "500 mg",
+      "frequency": "twice daily",
+      "route": "oral"
+    },
+    {
+      "name": "Levothyroxine",
+      "dose": "50 mcg",
+      "frequency": "once daily",
+      "route": "oral"
+    },
+    {
+      "name": "Azithromycin",
+      "dose": "500 mg",
+      "frequency": "once daily",
       "route": "oral"
     }
   ],
   "diagnoses": [
     {
-      "description": "probable migraine",
-      "icd10": null
+      "description": "Hypothyroidism",
+      "icd10": "E03.9"
+    },
+    {
+      "description": "Urinary tract infection",
+      "icd10": "N39.0"
     }
   ],
   "plan": [
-    "continue acetaminophen",
-    "migraine precautions",
-    "follow up in 5 days if headaches persist"
+    "Topical steroid cream applied to affected area twice daily",
+    "Smoking cessation counseling referral placed",
+    "Start new medication as prescribed today",
+    "Low-sodium diet; limit to less than 2 g sodium per day"
   ],
   "follow_up": {
-    "interval_days": 5,
-    "reason": "reevaluate headache"
+    "interval_days": 60,
+    "reason": "Blood pressure recheck"
   }
 }
