@@ -3,41 +3,35 @@
   "title": "ClinicalExtraction",
   "type": "object",
   "required": ["chief_complaint", "vitals", "medications", "diagnoses", "plan", "follow_up"],
+  "additionalProperties": false,
   "properties": {
     "chief_complaint": {
-      "type": "string"
+      "type": "string",
+      "description": "The patient's primary reason for the visit in their own words or as documented."
     },
     "vitals": {
       "type": "object",
       "required": ["bp", "hr", "temp_f", "spo2"],
+      "additionalProperties": false,
       "properties": {
-        "bp": {
-          "type": ["string", "null"]
-        },
-        "hr": {
-          "type": ["integer", "null"]
-        },
-        "temp_f": {
-          "type": ["number", "null"]
-        },
-        "spo2": {
-          "type": ["number", "null"]
-        }
-      },
-      "additionalProperties": false
+        "bp":     { "type": ["string", "null"], "description": "Blood pressure e.g. '118/76'" },
+        "hr":     { "type": ["number", "null"], "description": "Heart rate in bpm" },
+        "temp_f": { "type": ["number", "null"], "description": "Temperature in Fahrenheit" },
+        "spo2":   { "type": ["number", "null"], "description": "Oxygen saturation as a percentage" }
+      }
     },
     "medications": {
       "type": "array",
       "items": {
         "type": "object",
         "required": ["name", "dose", "frequency", "route"],
+        "additionalProperties": false,
         "properties": {
-          "name": { "type": "string" },
-          "dose": { "type": "string" },
+          "name":      { "type": "string" },
+          "dose":      { "type": "string" },
           "frequency": { "type": "string" },
-          "route": { "type": "string" }
-        },
-        "additionalProperties": false
+          "route":     { "type": "string" }
+        }
       }
     },
     "diagnoses": {
@@ -45,28 +39,26 @@
       "items": {
         "type": "object",
         "required": ["description"],
+        "additionalProperties": false,
         "properties": {
           "description": { "type": "string" },
-          "icd10": { "type": ["string", "null"] }
-        },
-        "additionalProperties": false
+          "icd10":       { "type": "string" }
+        }
       }
     },
     "plan": {
       "type": "array",
-      "items": {
-        "type": "string"
-      }
+      "items": { "type": "string" },
+      "description": "List of follow-up action items and instructions"
     },
     "follow_up": {
       "type": "object",
       "required": ["interval_days", "reason"],
+      "additionalProperties": false,
       "properties": {
         "interval_days": { "type": ["integer", "null"] },
-        "reason": { "type": ["string", "null"] }
-      },
-      "additionalProperties": false
+        "reason":        { "type": ["string", "null"] }
+      }
     }
-  },
-  "additionalProperties": false
+  }
 }
