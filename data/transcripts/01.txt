@@ -1,0 +1,47 @@
+SYNTHETIC CLINICAL TRANSCRIPT — CASE 01
+Patient: James Carter
+Date of Visit: 2025-07-02
+
+CHIEF COMPLAINT
+Chest pain radiating to the left arm, worse with exertion.
+
+HISTORY OF PRESENT ILLNESS
+James Carter is a patient presenting with chest pain. The patient reports the symptoms began several days ago and have been progressively worsening. The patient denies any known trauma or recent illness. Past medical history is significant for the documented diagnoses below.
+
+REVIEW OF SYSTEMS
+Positive for chest pain. Negative for chest pain unrelated to complaint, no hemoptysis, no syncope.
+
+VITAL SIGNS
+Blood Pressure: 118/76 mmHg
+Heart Rate: 68 bpm
+Temperature: 98.4 °F
+Oxygen Saturation: 99%
+
+CURRENT MEDICATIONS
+  - Metformin 500 mg twice daily by oral route
+
+PHYSICAL EXAMINATION
+General: Patient is alert and oriented x3, in mild to moderate distress related to presenting complaint.
+HEENT: Normocephalic, atraumatic.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Pulmonary: Clear to auscultation bilaterally.
+Abdomen: Soft, non-tender, non-distended.
+Extremities: No cyanosis or edema.
+
+ASSESSMENT AND PLAN
+
+Diagnoses:
+  - Hypothyroidism (E03.9) 
+  - Hyperlipidemia (E78.5) 
+  - Urinary tract infection (N39.0) 
+
+Plan:
+  1. Avoid NSAIDs due to renal function
+  2. Sleep hygiene counseling provided
+  3. Return to ER if symptoms worsen
+
+FOLLOW-UP
+Patient instructed to follow up in 10 days for Cardiology follow-up coordination.
+
+DISPOSITION
+Patient discharged in stable condition with prescriptions and instructions provided.

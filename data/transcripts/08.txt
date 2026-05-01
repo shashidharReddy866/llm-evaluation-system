@@ -1,0 +1,48 @@
+SYNTHETIC CLINICAL TRANSCRIPT — CASE 08
+Patient: Linda Nguyen
+Date of Visit: 2025-09-16
+
+CHIEF COMPLAINT
+High-grade fever for 3 days with chills.
+
+HISTORY OF PRESENT ILLNESS
+Linda Nguyen is a patient presenting with fever. The patient reports the symptoms began several days ago and have been progressively worsening. The patient denies any known trauma or recent illness. Past medical history is significant for the documented diagnoses below.
+
+REVIEW OF SYSTEMS
+Positive for fever. Negative for chest pain unrelated to complaint, no hemoptysis, no syncope.
+
+VITAL SIGNS
+Blood Pressure: 148/92 mmHg
+Heart Rate: 96 bpm
+Temperature: 100.8 °F
+Oxygen Saturation: 94%
+
+CURRENT MEDICATIONS
+  - Metoprolol 25 mg twice daily by oral route
+  - Omeprazole 20 mg once daily by oral route
+
+PHYSICAL EXAMINATION
+General: Patient is alert and oriented x3, in mild to moderate distress related to presenting complaint.
+HEENT: Normocephalic, atraumatic.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Pulmonary: Clear to auscultation bilaterally.
+Abdomen: Soft, non-tender, non-distended.
+Extremities: No cyanosis or edema.
+
+ASSESSMENT AND PLAN
+
+Diagnoses:
+  - Asthma, mild persistent (J45.20) 
+
+Plan:
+  1. Sleep hygiene counseling provided
+  2. Physical therapy referral placed
+  3. Chest X-ray ordered
+  4. ECG ordered
+  5. Pulmonary function tests ordered
+
+FOLLOW-UP
+Patient instructed to follow up in 21 days for Assess response to antibiotics.
+
+DISPOSITION
+Patient discharged in stable condition with prescriptions and instructions provided.

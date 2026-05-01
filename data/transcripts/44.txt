@@ -1,0 +1,49 @@
+SYNTHETIC CLINICAL TRANSCRIPT — CASE 44
+Patient: Carolyn Stewart
+Date of Visit: 2025-01-08
+
+CHIEF COMPLAINT
+Right knee pain and swelling after a fall.
+
+HISTORY OF PRESENT ILLNESS
+Carolyn Stewart is a patient presenting with knee pain. The patient reports the symptoms began several days ago and have been progressively worsening. The patient denies any known trauma or recent illness. Past medical history is significant for the documented diagnoses below.
+
+REVIEW OF SYSTEMS
+Positive for knee pain. Negative for chest pain unrelated to complaint, no hemoptysis, no syncope.
+
+VITAL SIGNS
+Blood Pressure: 156/94 mmHg
+Heart Rate: 104 bpm
+Temperature: 101.4 °F
+Oxygen Saturation: 95%
+
+CURRENT MEDICATIONS
+  - Metoprolol 25 mg twice daily by oral route
+  - Azithromycin 500 mg once daily by oral route
+  - Losartan 50 mg once daily by oral route
+  - Atorvastatin 20 mg once daily at bedtime by oral route
+
+PHYSICAL EXAMINATION
+General: Patient is alert and oriented x3, in mild to moderate distress related to presenting complaint.
+HEENT: Normocephalic, atraumatic.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Pulmonary: Clear to auscultation bilaterally.
+Abdomen: Soft, non-tender, non-distended.
+Extremities: No cyanosis or edema.
+
+ASSESSMENT AND PLAN
+
+Diagnoses:
+  - Essential hypertension (I10) 
+  - Asthma, mild persistent (J45.20) 
+
+Plan:
+  1. Pulmonary function tests ordered
+  2. Elevate affected limb when resting
+  3. Weight loss goal: 5 lbs per month
+
+FOLLOW-UP
+Patient instructed to follow up in 10 days for Review lab results and adjust medications.
+
+DISPOSITION
+Patient discharged in stable condition with prescriptions and instructions provided.

@@ -1,0 +1,46 @@
+SYNTHETIC CLINICAL TRANSCRIPT — CASE 09
+Patient: William Davis
+Date of Visit: 2025-10-15
+
+CHIEF COMPLAINT
+Dizziness and lightheadedness, worse on standing.
+
+HISTORY OF PRESENT ILLNESS
+William Davis is a patient presenting with dizziness. The patient reports the symptoms began several days ago and have been progressively worsening. The patient denies any known trauma or recent illness. Past medical history is significant for the documented diagnoses below.
+
+REVIEW OF SYSTEMS
+Positive for dizziness. Negative for chest pain unrelated to complaint, no hemoptysis, no syncope.
+
+VITAL SIGNS
+Blood Pressure: 138/84 mmHg
+Heart Rate: 82 bpm
+Temperature: 98.9 °F
+Oxygen Saturation: 97%
+
+CURRENT MEDICATIONS
+  - Lisinopril 10 mg once daily by oral route
+
+PHYSICAL EXAMINATION
+General: Patient is alert and oriented x3, in mild to moderate distress related to presenting complaint.
+HEENT: Normocephalic, atraumatic.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Pulmonary: Clear to auscultation bilaterally.
+Abdomen: Soft, non-tender, non-distended.
+Extremities: No cyanosis or edema.
+
+ASSESSMENT AND PLAN
+
+Diagnoses:
+  - Urinary tract infection (N39.0) 
+
+Plan:
+  1. Avoid NSAIDs due to renal function
+  2. Chest X-ray ordered
+  3. Dietary counseling referral placed
+  4. Low-sodium diet; limit to less than 2 g sodium per day
+
+FOLLOW-UP
+Patient instructed to follow up in 60 days for Symptom reassessment.
+
+DISPOSITION
+Patient discharged in stable condition with prescriptions and instructions provided.

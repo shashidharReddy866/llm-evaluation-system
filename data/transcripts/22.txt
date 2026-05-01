@@ -1,0 +1,49 @@
+SYNTHETIC CLINICAL TRANSCRIPT — CASE 22
+Patient: Betty Lewis
+Date of Visit: 2025-10-04
+
+CHIEF COMPLAINT
+Shortness of breath on exertion and at rest for 3 days.
+
+HISTORY OF PRESENT ILLNESS
+Betty Lewis is a patient presenting with shortness of breath. The patient reports the symptoms began several days ago and have been progressively worsening. The patient denies any known trauma or recent illness. Past medical history is significant for the documented diagnoses below.
+
+REVIEW OF SYSTEMS
+Positive for shortness of breath. Negative for chest pain unrelated to complaint, no hemoptysis, no syncope.
+
+VITAL SIGNS
+Blood Pressure: 142/88 mmHg
+Heart Rate: 92 bpm
+Temperature: 100.2 °F
+Oxygen Saturation: 97%
+
+CURRENT MEDICATIONS
+  - Albuterol 90 mcg as needed by inhaled route
+  - Metoprolol 25 mg twice daily by oral route
+  - Prednisone 10 mg once daily by oral route
+
+PHYSICAL EXAMINATION
+General: Patient is alert and oriented x3, in mild to moderate distress related to presenting complaint.
+HEENT: Normocephalic, atraumatic.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Pulmonary: Clear to auscultation bilaterally.
+Abdomen: Soft, non-tender, non-distended.
+Extremities: No cyanosis or edema.
+
+ASSESSMENT AND PLAN
+
+Diagnoses:
+  - Acute appendicitis (K35.80) 
+
+Plan:
+  1. Urine culture ordered
+  2. Smoking cessation counseling referral placed
+  3. Topical steroid cream applied to affected area twice daily
+  4. Low-sodium diet; limit to less than 2 g sodium per day
+  5. Continue current medications as prescribed
+
+FOLLOW-UP
+Patient instructed to follow up in 90 days for Cardiology follow-up coordination.
+
+DISPOSITION
+Patient discharged in stable condition with prescriptions and instructions provided.

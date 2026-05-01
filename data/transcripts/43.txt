@@ -1,0 +1,48 @@
+SYNTHETIC CLINICAL TRANSCRIPT — CASE 43
+Patient: Jason Collins
+Date of Visit: 2025-06-11
+
+CHIEF COMPLAINT
+Severe throbbing headache, 8/10 pain, started yesterday.
+
+HISTORY OF PRESENT ILLNESS
+Jason Collins is a patient presenting with headache. The patient reports the symptoms began several days ago and have been progressively worsening. The patient denies any known trauma or recent illness. Past medical history is significant for the documented diagnoses below.
+
+REVIEW OF SYSTEMS
+Positive for headache. Negative for chest pain unrelated to complaint, no hemoptysis, no syncope.
+
+VITAL SIGNS
+Blood Pressure: 128/82 mmHg
+Heart Rate: 78 bpm
+Temperature: 98.6 °F
+Oxygen Saturation: 98%
+
+CURRENT MEDICATIONS
+  - Atorvastatin 20 mg once daily at bedtime by oral route
+
+PHYSICAL EXAMINATION
+General: Patient is alert and oriented x3, in mild to moderate distress related to presenting complaint.
+HEENT: Normocephalic, atraumatic.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Pulmonary: Clear to auscultation bilaterally.
+Abdomen: Soft, non-tender, non-distended.
+Extremities: No cyanosis or edema.
+
+ASSESSMENT AND PLAN
+
+Diagnoses:
+  - Chronic obstructive pulmonary disease (J44.1) 
+  - Urinary tract infection (N39.0) 
+  - Acute pharyngitis (J02.9) 
+
+Plan:
+  1. Increase fluid intake to at least 2 liters per day
+  2. Monitor blood pressure daily at home
+  3. ECG ordered
+  4. Smoking cessation counseling referral placed
+
+FOLLOW-UP
+Patient instructed to follow up in 21 days for Medication side effect monitoring.
+
+DISPOSITION
+Patient discharged in stable condition with prescriptions and instructions provided.

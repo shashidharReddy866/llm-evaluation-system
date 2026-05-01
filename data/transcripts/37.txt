@@ -1,0 +1,47 @@
+SYNTHETIC CLINICAL TRANSCRIPT — CASE 37
+Patient: Brian Roberts
+Date of Visit: 2025-12-17
+
+CHIEF COMPLAINT
+Left ear pain and decreased hearing for 4 days.
+
+HISTORY OF PRESENT ILLNESS
+Brian Roberts is a patient presenting with ear pain. The patient reports the symptoms began several days ago and have been progressively worsening. The patient denies any known trauma or recent illness. Past medical history is significant for the documented diagnoses below.
+
+REVIEW OF SYSTEMS
+Positive for ear pain. Negative for chest pain unrelated to complaint, no hemoptysis, no syncope.
+
+VITAL SIGNS
+Blood Pressure: 130/84 mmHg
+Heart Rate: 80 bpm
+Temperature: 98.5 °F
+Oxygen Saturation: 98%
+
+CURRENT MEDICATIONS
+  - Prednisone 10 mg once daily by oral route
+  - Ibuprofen 400 mg three times daily by oral route
+
+PHYSICAL EXAMINATION
+General: Patient is alert and oriented x3, in mild to moderate distress related to presenting complaint.
+HEENT: Normocephalic, atraumatic.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Pulmonary: Clear to auscultation bilaterally.
+Abdomen: Soft, non-tender, non-distended.
+Extremities: No cyanosis or edema.
+
+ASSESSMENT AND PLAN
+
+Diagnoses:
+  - Hyperlipidemia (E78.5) 
+  - Urinary tract infection (N39.0) 
+
+Plan:
+  1. Topical steroid cream applied to affected area twice daily
+  2. Start new medication as prescribed today
+  3. Chest X-ray ordered
+
+FOLLOW-UP
+Patient instructed to follow up in 21 days for Assess response to antibiotics.
+
+DISPOSITION
+Patient discharged in stable condition with prescriptions and instructions provided.

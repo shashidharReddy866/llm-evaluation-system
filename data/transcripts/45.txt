@@ -1,0 +1,49 @@
+SYNTHETIC CLINICAL TRANSCRIPT — CASE 45
+Patient: Jeffrey Sanchez
+Date of Visit: 2025-10-20
+
+CHIEF COMPLAINT
+Lower abdominal cramping pain, onset 2 days ago.
+
+HISTORY OF PRESENT ILLNESS
+Jeffrey Sanchez is a patient presenting with abdominal pain. The patient reports the symptoms began several days ago and have been progressively worsening. The patient denies any known trauma or recent illness. Past medical history is significant for the documented diagnoses below.
+
+REVIEW OF SYSTEMS
+Positive for abdominal pain. Negative for chest pain unrelated to complaint, no hemoptysis, no syncope.
+
+VITAL SIGNS
+Blood Pressure: 110/70 mmHg
+Heart Rate: 62 bpm
+Temperature: 97.8 °F
+Oxygen Saturation: 99%
+
+CURRENT MEDICATIONS
+  - Metformin 500 mg twice daily by oral route
+  - Omeprazole 20 mg once daily by oral route
+
+PHYSICAL EXAMINATION
+General: Patient is alert and oriented x3, in mild to moderate distress related to presenting complaint.
+HEENT: Normocephalic, atraumatic.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Pulmonary: Clear to auscultation bilaterally.
+Abdomen: Soft, non-tender, non-distended.
+Extremities: No cyanosis or edema.
+
+ASSESSMENT AND PLAN
+
+Diagnoses:
+  - Urinary tract infection (N39.0) 
+
+Plan:
+  1. Avoid NSAIDs due to renal function
+  2. Start new medication as prescribed today
+  3. Physical therapy referral placed
+  4. Apply ice pack to affected area 20 minutes three times daily
+  5. Urine culture ordered
+  6. Monitor blood pressure daily at home
+
+FOLLOW-UP
+Patient instructed to follow up in 45 days for Assess response to antibiotics.
+
+DISPOSITION
+Patient discharged in stable condition with prescriptions and instructions provided.

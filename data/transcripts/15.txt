@@ -1,0 +1,49 @@
+SYNTHETIC CLINICAL TRANSCRIPT — CASE 15
+Patient: Christopher Lee
+Date of Visit: 2025-08-26
+
+CHIEF COMPLAINT
+Sore throat with difficulty swallowing for 3 days.
+
+HISTORY OF PRESENT ILLNESS
+Christopher Lee is a patient presenting with sore throat. The patient reports the symptoms began several days ago and have been progressively worsening. The patient denies any known trauma or recent illness. Past medical history is significant for the documented diagnoses below.
+
+REVIEW OF SYSTEMS
+Positive for sore throat. Negative for chest pain unrelated to complaint, no hemoptysis, no syncope.
+
+VITAL SIGNS
+Blood Pressure: 116/72 mmHg
+Heart Rate: 64 bpm
+Temperature: 98.1 °F
+Oxygen Saturation: 100%
+
+CURRENT MEDICATIONS
+  - Atorvastatin 20 mg once daily at bedtime by oral route
+  - Acetaminophen 500 mg every 6 hours as needed by oral route
+  - Albuterol 90 mcg as needed by inhaled route
+
+PHYSICAL EXAMINATION
+General: Patient is alert and oriented x3, in mild to moderate distress related to presenting complaint.
+HEENT: Normocephalic, atraumatic.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Pulmonary: Clear to auscultation bilaterally.
+Abdomen: Soft, non-tender, non-distended.
+Extremities: No cyanosis or edema.
+
+ASSESSMENT AND PLAN
+
+Diagnoses:
+  - Acute appendicitis (K35.80) 
+  - Acute otitis media (H66.90) 
+
+Plan:
+  1. Return to ER if symptoms worsen
+  2. Complete full course of antibiotics
+  3. Sleep hygiene counseling provided
+  4. Physical therapy referral placed
+
+FOLLOW-UP
+Patient instructed to follow up in 90 days for Post-operative wound check.
+
+DISPOSITION
+Patient discharged in stable condition with prescriptions and instructions provided.

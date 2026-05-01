@@ -1,0 +1,52 @@
+SYNTHETIC CLINICAL TRANSCRIPT — CASE 04
+Patient: Susan Patel
+Date of Visit: 2025-01-22
+
+CHIEF COMPLAINT
+Right knee pain and swelling after a fall.
+
+HISTORY OF PRESENT ILLNESS
+Susan Patel is a patient presenting with knee pain. The patient reports the symptoms began several days ago and have been progressively worsening. The patient denies any known trauma or recent illness. Past medical history is significant for the documented diagnoses below.
+
+REVIEW OF SYSTEMS
+Positive for knee pain. Negative for chest pain unrelated to complaint, no hemoptysis, no syncope.
+
+VITAL SIGNS
+Blood Pressure: 156/94 mmHg
+Heart Rate: 104 bpm
+Temperature: 101.4 °F
+Oxygen Saturation: 95%
+
+CURRENT MEDICATIONS
+  - Losartan 50 mg once daily by oral route
+  - Metoprolol 25 mg twice daily by oral route
+  - Lisinopril 10 mg once daily by oral route
+
+PHYSICAL EXAMINATION
+General: Patient is alert and oriented x3, in mild to moderate distress related to presenting complaint.
+HEENT: Normocephalic, atraumatic.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Pulmonary: Clear to auscultation bilaterally.
+Abdomen: Soft, non-tender, non-distended.
+Extremities: No cyanosis or edema.
+
+ASSESSMENT AND PLAN
+
+Diagnoses:
+  - Acute pharyngitis (J02.9) 
+  - Low back pain (M54.5) 
+  - Acute bronchitis (J20.9) 
+
+Plan:
+  1. Low-sodium diet; limit to less than 2 g sodium per day
+  2. Return to ER if symptoms worsen
+  3. Glucose monitoring twice daily
+  4. Weight loss goal: 5 lbs per month
+  5. Dietary counseling referral placed
+  6. Pulmonary function tests ordered
+
+FOLLOW-UP
+Patient instructed to follow up in 21 days for Blood pressure recheck.
+
+DISPOSITION
+Patient discharged in stable condition with prescriptions and instructions provided.

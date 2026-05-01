@@ -1,0 +1,50 @@
+SYNTHETIC CLINICAL TRANSCRIPT — CASE 32
+Patient: Ruth Nelson
+Date of Visit: 2025-06-22
+
+CHIEF COMPLAINT
+Nausea and vomiting since this morning.
+
+HISTORY OF PRESENT ILLNESS
+Ruth Nelson is a patient presenting with nausea. The patient reports the symptoms began several days ago and have been progressively worsening. The patient denies any known trauma or recent illness. Past medical history is significant for the documented diagnoses below.
+
+REVIEW OF SYSTEMS
+Positive for nausea. Negative for chest pain unrelated to complaint, no hemoptysis, no syncope.
+
+VITAL SIGNS
+Blood Pressure: 144/90 mmHg
+Heart Rate: 98 bpm
+Temperature: 101.0 °F
+Oxygen Saturation: 96%
+
+CURRENT MEDICATIONS
+  - Lisinopril 10 mg once daily by oral route
+  - Azithromycin 500 mg once daily by oral route
+  - Metformin 500 mg twice daily by oral route
+
+PHYSICAL EXAMINATION
+General: Patient is alert and oriented x3, in mild to moderate distress related to presenting complaint.
+HEENT: Normocephalic, atraumatic.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Pulmonary: Clear to auscultation bilaterally.
+Abdomen: Soft, non-tender, non-distended.
+Extremities: No cyanosis or edema.
+
+ASSESSMENT AND PLAN
+
+Diagnoses:
+  - Low back pain (M54.5) 
+  - Acute appendicitis (K35.80) 
+  - Asthma, mild persistent (J45.20) 
+
+Plan:
+  1. Pulmonary function tests ordered
+  2. Chest X-ray ordered
+  3. Low-sodium diet; limit to less than 2 g sodium per day
+  4. Avoid NSAIDs due to renal function
+
+FOLLOW-UP
+Patient instructed to follow up in 45 days for Cardiology follow-up coordination.
+
+DISPOSITION
+Patient discharged in stable condition with prescriptions and instructions provided.

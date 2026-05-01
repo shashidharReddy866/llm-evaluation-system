@@ -1,0 +1,48 @@
+SYNTHETIC CLINICAL TRANSCRIPT — CASE 27
+Patient: Steven Wright
+Date of Visit: 2025-09-28
+
+CHIEF COMPLAINT
+Productive cough with yellow sputum for 5 days.
+
+HISTORY OF PRESENT ILLNESS
+Steven Wright is a patient presenting with cough. The patient reports the symptoms began several days ago and have been progressively worsening. The patient denies any known trauma or recent illness. Past medical history is significant for the documented diagnoses below.
+
+REVIEW OF SYSTEMS
+Positive for cough. Negative for chest pain unrelated to complaint, no hemoptysis, no syncope.
+
+VITAL SIGNS
+Blood Pressure: 122/78 mmHg
+Heart Rate: 74 bpm
+Temperature: 98.2 °F
+Oxygen Saturation: 99%
+
+CURRENT MEDICATIONS
+  - Azithromycin 500 mg once daily by oral route
+  - Omeprazole 20 mg once daily by oral route
+
+PHYSICAL EXAMINATION
+General: Patient is alert and oriented x3, in mild to moderate distress related to presenting complaint.
+HEENT: Normocephalic, atraumatic.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Pulmonary: Clear to auscultation bilaterally.
+Abdomen: Soft, non-tender, non-distended.
+Extremities: No cyanosis or edema.
+
+ASSESSMENT AND PLAN
+
+Diagnoses:
+  - Major depressive disorder (F32.9) 
+
+Plan:
+  1. Increase fluid intake to at least 2 liters per day
+  2. Pulmonary function tests ordered
+  3. Apply ice pack to affected area 20 minutes three times daily
+  4. Avoid NSAIDs due to renal function
+  5. Elevate affected limb when resting
+
+FOLLOW-UP
+Patient instructed to follow up in 10 days for Thyroid level recheck.
+
+DISPOSITION
+Patient discharged in stable condition with prescriptions and instructions provided.

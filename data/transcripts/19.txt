@@ -1,0 +1,49 @@
+SYNTHETIC CLINICAL TRANSCRIPT — CASE 19
+Patient: Matthew Garcia
+Date of Visit: 2025-04-02
+
+CHIEF COMPLAINT
+Bilateral joint pain and stiffness in the morning.
+
+HISTORY OF PRESENT ILLNESS
+Matthew Garcia is a patient presenting with joint pain. The patient reports the symptoms began several days ago and have been progressively worsening. The patient denies any known trauma or recent illness. Past medical history is significant for the documented diagnoses below.
+
+REVIEW OF SYSTEMS
+Positive for joint pain. Negative for chest pain unrelated to complaint, no hemoptysis, no syncope.
+
+VITAL SIGNS
+Blood Pressure: 124/76 mmHg
+Heart Rate: 72 bpm
+Temperature: 98.3 °F
+Oxygen Saturation: 99%
+
+CURRENT MEDICATIONS
+  - Prednisone 10 mg once daily by oral route
+
+PHYSICAL EXAMINATION
+General: Patient is alert and oriented x3, in mild to moderate distress related to presenting complaint.
+HEENT: Normocephalic, atraumatic.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Pulmonary: Clear to auscultation bilaterally.
+Abdomen: Soft, non-tender, non-distended.
+Extremities: No cyanosis or edema.
+
+ASSESSMENT AND PLAN
+
+Diagnoses:
+  - Acute pharyngitis (J02.9) 
+  - Major depressive disorder (F32.9) 
+
+Plan:
+  1. Follow up with cardiology for further evaluation
+  2. Sleep hygiene counseling provided
+  3. Return to ER if symptoms worsen
+  4. Avoid NSAIDs due to renal function
+  5. Renal function panel ordered
+  6. Complete full course of antibiotics
+
+FOLLOW-UP
+Patient instructed to follow up in 21 days for Diabetes management review.
+
+DISPOSITION
+Patient discharged in stable condition with prescriptions and instructions provided.

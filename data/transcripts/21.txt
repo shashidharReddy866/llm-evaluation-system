@@ -1,0 +1,48 @@
+SYNTHETIC CLINICAL TRANSCRIPT — CASE 21
+Patient: Anthony Clark
+Date of Visit: 2025-04-22
+
+CHIEF COMPLAINT
+Chest pain radiating to the left arm, worse with exertion.
+
+HISTORY OF PRESENT ILLNESS
+Anthony Clark is a patient presenting with chest pain. The patient reports the symptoms began several days ago and have been progressively worsening. The patient denies any known trauma or recent illness. Past medical history is significant for the documented diagnoses below.
+
+REVIEW OF SYSTEMS
+Positive for chest pain. Negative for chest pain unrelated to complaint, no hemoptysis, no syncope.
+
+VITAL SIGNS
+Blood Pressure: 118/76 mmHg
+Heart Rate: 68 bpm
+Temperature: 98.4 °F
+Oxygen Saturation: 99%
+
+CURRENT MEDICATIONS
+  - Prednisone 10 mg once daily by oral route
+  - Amlodipine 5 mg once daily by oral route
+
+PHYSICAL EXAMINATION
+General: Patient is alert and oriented x3, in mild to moderate distress related to presenting complaint.
+HEENT: Normocephalic, atraumatic.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Pulmonary: Clear to auscultation bilaterally.
+Abdomen: Soft, non-tender, non-distended.
+Extremities: No cyanosis or edema.
+
+ASSESSMENT AND PLAN
+
+Diagnoses:
+  - Hyperlipidemia (E78.5) 
+  - Migraine without aura (G43.009) 
+  - Anemia, unspecified (D64.9) 
+
+Plan:
+  1. Dietary counseling referral placed
+  2. Low-sodium diet; limit to less than 2 g sodium per day
+  3. Chest X-ray ordered
+
+FOLLOW-UP
+Patient instructed to follow up in 45 days for Diabetes management review.
+
+DISPOSITION
+Patient discharged in stable condition with prescriptions and instructions provided.

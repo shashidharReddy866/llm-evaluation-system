@@ -1,0 +1,46 @@
+SYNTHETIC CLINICAL TRANSCRIPT — CASE 46
+Patient: Janet Morris
+Date of Visit: 2025-12-07
+
+CHIEF COMPLAINT
+Chronic low back pain, worsening over 2 weeks.
+
+HISTORY OF PRESENT ILLNESS
+Janet Morris is a patient presenting with back pain. The patient reports the symptoms began several days ago and have been progressively worsening. The patient denies any known trauma or recent illness. Past medical history is significant for the documented diagnoses below.
+
+REVIEW OF SYSTEMS
+Positive for back pain. Negative for chest pain unrelated to complaint, no hemoptysis, no syncope.
+
+VITAL SIGNS
+Blood Pressure: 134/86 mmHg
+Heart Rate: 88 bpm
+Temperature: 99.1 °F
+Oxygen Saturation: 96%
+
+CURRENT MEDICATIONS
+  - Levothyroxine 50 mcg once daily by oral route
+
+PHYSICAL EXAMINATION
+General: Patient is alert and oriented x3, in mild to moderate distress related to presenting complaint.
+HEENT: Normocephalic, atraumatic.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Pulmonary: Clear to auscultation bilaterally.
+Abdomen: Soft, non-tender, non-distended.
+Extremities: No cyanosis or edema.
+
+ASSESSMENT AND PLAN
+
+Diagnoses:
+  - Acute bronchitis (J20.9) 
+  - Migraine without aura (G43.009) 
+
+Plan:
+  1. Glucose monitoring twice daily
+  2. Physical therapy referral placed
+  3. Avoid NSAIDs due to renal function
+
+FOLLOW-UP
+Patient instructed to follow up in 60 days for Symptom reassessment.
+
+DISPOSITION
+Patient discharged in stable condition with prescriptions and instructions provided.

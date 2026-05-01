@@ -1,0 +1,51 @@
+SYNTHETIC CLINICAL TRANSCRIPT — CASE 42
+Patient: Frances Edwards
+Date of Visit: 2025-10-19
+
+CHIEF COMPLAINT
+Shortness of breath on exertion and at rest for 3 days.
+
+HISTORY OF PRESENT ILLNESS
+Frances Edwards is a patient presenting with shortness of breath. The patient reports the symptoms began several days ago and have been progressively worsening. The patient denies any known trauma or recent illness. Past medical history is significant for the documented diagnoses below.
+
+REVIEW OF SYSTEMS
+Positive for shortness of breath. Negative for chest pain unrelated to complaint, no hemoptysis, no syncope.
+
+VITAL SIGNS
+Blood Pressure: 142/88 mmHg
+Heart Rate: 92 bpm
+Temperature: 100.2 °F
+Oxygen Saturation: 97%
+
+CURRENT MEDICATIONS
+  - Ibuprofen 400 mg three times daily by oral route
+  - Metformin 500 mg twice daily by oral route
+  - Prednisone 10 mg once daily by oral route
+  - Hydrochlorothiazide 25 mg once daily by oral route
+
+PHYSICAL EXAMINATION
+General: Patient is alert and oriented x3, in mild to moderate distress related to presenting complaint.
+HEENT: Normocephalic, atraumatic.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Pulmonary: Clear to auscultation bilaterally.
+Abdomen: Soft, non-tender, non-distended.
+Extremities: No cyanosis or edema.
+
+ASSESSMENT AND PLAN
+
+Diagnoses:
+  - Acute appendicitis (K35.80) 
+  - Atrial fibrillation (I48.91) 
+  - Asthma, mild persistent (J45.20) 
+
+Plan:
+  1. Urine culture ordered
+  2. Complete full course of antibiotics
+  3. Dietary counseling referral placed
+  4. Return to ER if symptoms worsen
+
+FOLLOW-UP
+Patient instructed to follow up in 7 days for Symptom reassessment.
+
+DISPOSITION
+Patient discharged in stable condition with prescriptions and instructions provided.

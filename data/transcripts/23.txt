@@ -1,0 +1,47 @@
+SYNTHETIC CLINICAL TRANSCRIPT — CASE 23
+Patient: Mark Hall
+Date of Visit: 2025-09-23
+
+CHIEF COMPLAINT
+Severe throbbing headache, 8/10 pain, started yesterday.
+
+HISTORY OF PRESENT ILLNESS
+Mark Hall is a patient presenting with headache. The patient reports the symptoms began several days ago and have been progressively worsening. The patient denies any known trauma or recent illness. Past medical history is significant for the documented diagnoses below.
+
+REVIEW OF SYSTEMS
+Positive for headache. Negative for chest pain unrelated to complaint, no hemoptysis, no syncope.
+
+VITAL SIGNS
+Blood Pressure: 128/82 mmHg
+Heart Rate: 78 bpm
+Temperature: 98.6 °F
+Oxygen Saturation: 98%
+
+CURRENT MEDICATIONS
+  - Furosemide 40 mg once daily by oral route
+
+PHYSICAL EXAMINATION
+General: Patient is alert and oriented x3, in mild to moderate distress related to presenting complaint.
+HEENT: Normocephalic, atraumatic.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Pulmonary: Clear to auscultation bilaterally.
+Abdomen: Soft, non-tender, non-distended.
+Extremities: No cyanosis or edema.
+
+ASSESSMENT AND PLAN
+
+Diagnoses:
+  - Cellulitis (L03.90) 
+
+Plan:
+  1. Complete full course of antibiotics
+  2. Pulmonary function tests ordered
+  3. Low-sodium diet; limit to less than 2 g sodium per day
+  4. Elevate affected limb when resting
+  5. Glucose monitoring twice daily
+
+FOLLOW-UP
+Patient instructed to follow up in 14 days for Medication side effect monitoring.
+
+DISPOSITION
+Patient discharged in stable condition with prescriptions and instructions provided.

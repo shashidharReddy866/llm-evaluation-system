@@ -1,0 +1,50 @@
+SYNTHETIC CLINICAL TRANSCRIPT — CASE 49
+Patient: Jacob Cook
+Date of Visit: 2025-10-20
+
+CHIEF COMPLAINT
+Dizziness and lightheadedness, worse on standing.
+
+HISTORY OF PRESENT ILLNESS
+Jacob Cook is a patient presenting with dizziness. The patient reports the symptoms began several days ago and have been progressively worsening. The patient denies any known trauma or recent illness. Past medical history is significant for the documented diagnoses below.
+
+REVIEW OF SYSTEMS
+Positive for dizziness. Negative for chest pain unrelated to complaint, no hemoptysis, no syncope.
+
+VITAL SIGNS
+Blood Pressure: 138/84 mmHg
+Heart Rate: 82 bpm
+Temperature: 98.9 °F
+Oxygen Saturation: 97%
+
+CURRENT MEDICATIONS
+  - Losartan 50 mg once daily by oral route
+  - Furosemide 40 mg once daily by oral route
+  - Ibuprofen 400 mg three times daily by oral route
+
+PHYSICAL EXAMINATION
+General: Patient is alert and oriented x3, in mild to moderate distress related to presenting complaint.
+HEENT: Normocephalic, atraumatic.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Pulmonary: Clear to auscultation bilaterally.
+Abdomen: Soft, non-tender, non-distended.
+Extremities: No cyanosis or edema.
+
+ASSESSMENT AND PLAN
+
+Diagnoses:
+  - Chronic obstructive pulmonary disease (J44.1) 
+  - Asthma, mild persistent (J45.20) 
+
+Plan:
+  1. Smoking cessation counseling referral placed
+  2. Elevate affected limb when resting
+  3. Low-sodium diet; limit to less than 2 g sodium per day
+  4. Monitor blood pressure daily at home
+  5. Urine culture ordered
+
+FOLLOW-UP
+Patient instructed to follow up in 21 days for Medication side effect monitoring.
+
+DISPOSITION
+Patient discharged in stable condition with prescriptions and instructions provided.

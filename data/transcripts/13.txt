@@ -1,0 +1,51 @@
+SYNTHETIC CLINICAL TRANSCRIPT — CASE 13
+Patient: Thomas Taylor
+Date of Visit: 2025-09-15
+
+CHIEF COMPLAINT
+Bilateral ankle swelling for 1 week.
+
+HISTORY OF PRESENT ILLNESS
+Thomas Taylor is a patient presenting with ankle swelling. The patient reports the symptoms began several days ago and have been progressively worsening. The patient denies any known trauma or recent illness. Past medical history is significant for the documented diagnoses below.
+
+REVIEW OF SYSTEMS
+Positive for ankle swelling. Negative for chest pain unrelated to complaint, no hemoptysis, no syncope.
+
+VITAL SIGNS
+Blood Pressure: 126/80 mmHg
+Heart Rate: 76 bpm
+Temperature: 98.7 °F
+Oxygen Saturation: 98%
+
+CURRENT MEDICATIONS
+  - Omeprazole 20 mg once daily by oral route
+  - Ibuprofen 400 mg three times daily by oral route
+
+PHYSICAL EXAMINATION
+General: Patient is alert and oriented x3, in mild to moderate distress related to presenting complaint.
+HEENT: Normocephalic, atraumatic.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Pulmonary: Clear to auscultation bilaterally.
+Abdomen: Soft, non-tender, non-distended.
+Extremities: No cyanosis or edema.
+
+ASSESSMENT AND PLAN
+
+Diagnoses:
+  - Gastroesophageal reflux disease (K21.0) 
+  - Hypothyroidism (E03.9) 
+  - Cellulitis (L03.90) 
+
+Plan:
+  1. Apply ice pack to affected area 20 minutes three times daily
+  2. Return to ER if symptoms worsen
+  3. Follow up with cardiology for further evaluation
+  4. Topical steroid cream applied to affected area twice daily
+  5. Glucose monitoring twice daily
+  6. ECG ordered
+
+FOLLOW-UP
+Patient instructed to follow up in 45 days for Medication side effect monitoring.
+
+DISPOSITION
+Patient discharged in stable condition with prescriptions and instructions provided.

@@ -1,0 +1,48 @@
+SYNTHETIC CLINICAL TRANSCRIPT — CASE 20
+Patient: Nancy Robinson
+Date of Visit: 2025-10-03
+
+CHIEF COMPLAINT
+Unintentional weight loss of 10 lbs over 1 month.
+
+HISTORY OF PRESENT ILLNESS
+Nancy Robinson is a patient presenting with weight loss. The patient reports the symptoms began several days ago and have been progressively worsening. The patient denies any known trauma or recent illness. Past medical history is significant for the documented diagnoses below.
+
+REVIEW OF SYSTEMS
+Positive for weight loss. Negative for chest pain unrelated to complaint, no hemoptysis, no syncope.
+
+VITAL SIGNS
+Blood Pressure: 146/92 mmHg
+Heart Rate: 94 bpm
+Temperature: 100.4 °F
+Oxygen Saturation: 96%
+
+CURRENT MEDICATIONS
+  - Hydrochlorothiazide 25 mg once daily by oral route
+
+PHYSICAL EXAMINATION
+General: Patient is alert and oriented x3, in mild to moderate distress related to presenting complaint.
+HEENT: Normocephalic, atraumatic.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Pulmonary: Clear to auscultation bilaterally.
+Abdomen: Soft, non-tender, non-distended.
+Extremities: No cyanosis or edema.
+
+ASSESSMENT AND PLAN
+
+Diagnoses:
+  - Type 2 diabetes mellitus (E11.9) 
+
+Plan:
+  1. Thyroid function tests ordered
+  2. Topical steroid cream applied to affected area twice daily
+  3. Rest and avoid strenuous activity for 1 week
+  4. Increase fluid intake to at least 2 liters per day
+  5. Sleep hygiene counseling provided
+  6. Low-sodium diet; limit to less than 2 g sodium per day
+
+FOLLOW-UP
+Patient instructed to follow up in 14 days for Blood pressure recheck.
+
+DISPOSITION
+Patient discharged in stable condition with prescriptions and instructions provided.

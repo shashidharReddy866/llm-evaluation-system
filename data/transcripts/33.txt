@@ -1,0 +1,49 @@
+SYNTHETIC CLINICAL TRANSCRIPT — CASE 33
+Patient: Kenneth Hill
+Date of Visit: 2025-11-13
+
+CHIEF COMPLAINT
+Bilateral ankle swelling for 1 week.
+
+HISTORY OF PRESENT ILLNESS
+Kenneth Hill is a patient presenting with ankle swelling. The patient reports the symptoms began several days ago and have been progressively worsening. The patient denies any known trauma or recent illness. Past medical history is significant for the documented diagnoses below.
+
+REVIEW OF SYSTEMS
+Positive for ankle swelling. Negative for chest pain unrelated to complaint, no hemoptysis, no syncope.
+
+VITAL SIGNS
+Blood Pressure: 126/80 mmHg
+Heart Rate: 76 bpm
+Temperature: 98.7 °F
+Oxygen Saturation: 98%
+
+CURRENT MEDICATIONS
+  - Warfarin 5 mg once daily by oral route
+
+PHYSICAL EXAMINATION
+General: Patient is alert and oriented x3, in mild to moderate distress related to presenting complaint.
+HEENT: Normocephalic, atraumatic.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Pulmonary: Clear to auscultation bilaterally.
+Abdomen: Soft, non-tender, non-distended.
+Extremities: No cyanosis or edema.
+
+ASSESSMENT AND PLAN
+
+Diagnoses:
+  - Major depressive disorder (F32.9) 
+  - Acute appendicitis (K35.80) 
+  - Chronic obstructive pulmonary disease (J44.1) 
+
+Plan:
+  1. ECG ordered
+  2. Follow up with cardiology for further evaluation
+  3. Glucose monitoring twice daily
+  4. Return to ER if symptoms worsen
+  5. Complete full course of antibiotics
+
+FOLLOW-UP
+Patient instructed to follow up in 21 days for Symptom reassessment.
+
+DISPOSITION
+Patient discharged in stable condition with prescriptions and instructions provided.
