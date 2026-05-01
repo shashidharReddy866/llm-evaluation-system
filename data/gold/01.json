@@ -1,0 +1,32 @@
+{
+  "chief_complaint": "Sharp chest pain radiating to left arm",
+  "vitals": {
+    "bp": "130/84",
+    "hr": 88,
+    "temp_f": 98.6,
+    "spo2": 98
+  },
+  "medications": [
+    {
+      "name": "aspirin",
+      "dose": "81 mg",
+      "frequency": "daily",
+      "route": "oral"
+    }
+  ],
+  "diagnoses": [
+    {
+      "description": "possible angina",
+      "icd10": null
+    }
+  ],
+  "plan": [
+    "order ECG",
+    "start aspirin",
+    "follow up in 2 days if pain persists"
+  ],
+  "follow_up": {
+    "interval_days": 2,
+    "reason": "recheck chest pain"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "@healosbench/server",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "bun src/index.ts",
+    "eval": "bun src/scripts/eval.ts",
+    "db:push": "echo 'Run migrations or database bootstrap manually.'"
+  },
+  "dependencies": {
+    "ajv": "^8.14.0",
+    "better-auth": "^0.0.1",
+    "drizzle-orm": "^0.27.0",
+    "dotenv": "^16.3.1",
+    "hono": "^3.0.0",
+    "pg": "^8.11.0",
+    "uuid": "^9.0.0",
+    "zod": "^3.23.0"
+  }
+}

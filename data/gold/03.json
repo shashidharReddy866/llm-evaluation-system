@@ -1,0 +1,32 @@
+{
+  "chief_complaint": "Headache behind the eyes with light sensitivity",
+  "vitals": {
+    "bp": "122/80",
+    "hr": 72,
+    "temp_f": 99.1,
+    "spo2": 97
+  },
+  "medications": [
+    {
+      "name": "acetaminophen",
+      "dose": "as needed",
+      "frequency": "as needed",
+      "route": "oral"
+    }
+  ],
+  "diagnoses": [
+    {
+      "description": "probable migraine",
+      "icd10": null
+    }
+  ],
+  "plan": [
+    "continue acetaminophen",
+    "migraine precautions",
+    "follow up in 5 days if headaches persist"
+  ],
+  "follow_up": {
+    "interval_days": 5,
+    "reason": "reevaluate headache"
+  }
+}

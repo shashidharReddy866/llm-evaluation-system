@@ -1,0 +1,72 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "ClinicalExtraction",
+  "type": "object",
+  "required": ["chief_complaint", "vitals", "medications", "diagnoses", "plan", "follow_up"],
+  "properties": {
+    "chief_complaint": {
+      "type": "string"
+    },
+    "vitals": {
+      "type": "object",
+      "required": ["bp", "hr", "temp_f", "spo2"],
+      "properties": {
+        "bp": {
+          "type": ["string", "null"]
+        },
+        "hr": {
+          "type": ["integer", "null"]
+        },
+        "temp_f": {
+          "type": ["number", "null"]
+        },
+        "spo2": {
+          "type": ["number", "null"]
+        }
+      },
+      "additionalProperties": false
+    },
+    "medications": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["name", "dose", "frequency", "route"],
+        "properties": {
+          "name": { "type": "string" },
+          "dose": { "type": "string" },
+          "frequency": { "type": "string" },
+          "route": { "type": "string" }
+        },
+        "additionalProperties": false
+      }
+    },
+    "diagnoses": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["description"],
+        "properties": {
+          "description": { "type": "string" },
+          "icd10": { "type": ["string", "null"] }
+        },
+        "additionalProperties": false
+      }
+    },
+    "plan": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "follow_up": {
+      "type": "object",
+      "required": ["interval_days", "reason"],
+      "properties": {
+        "interval_days": { "type": ["integer", "null"] },
+        "reason": { "type": ["string", "null"] }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}

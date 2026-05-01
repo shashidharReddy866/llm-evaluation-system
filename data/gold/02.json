@@ -1,0 +1,32 @@
+{
+  "chief_complaint": "Right knee pain after soccer injury",
+  "vitals": {
+    "bp": "118/72",
+    "hr": 76,
+    "temp_f": 98.2,
+    "spo2": 99
+  },
+  "medications": [
+    {
+      "name": "naproxen",
+      "dose": "500 mg",
+      "frequency": "twice daily",
+      "route": "oral"
+    }
+  ],
+  "diagnoses": [
+    {
+      "description": "acute knee sprain",
+      "icd10": null
+    }
+  ],
+  "plan": [
+    "prescribe naproxen",
+    "refer to physical therapy",
+    "return in 7 days if symptoms worsen"
+  ],
+  "follow_up": {
+    "interval_days": 7,
+    "reason": "monitor knee recovery"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "llm-evaluation-system",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "bun run dev:server",
+    "dev:server": "cd apps/server && bun run dev",
+    "dev:web": "cd apps/web && bun run dev",
+    "eval": "cd apps/server && bun run eval",
+    "test": "bun test",
+    "db:push": "cd apps/server && bun run db:push"
+  },
+  "devDependencies": {
+    "@types/node": "^25.6.0",
+    "@types/react": "^19.2.14",
+    "bun-types": "^0.5.0",
+    "tsx": "^4.14.0",
+    "typescript": "^5.5.0",
+    "vitest": "^0.34.0"
+  }
+}

@@ -1,0 +1,13 @@
+node_modules
+.bun
+.bunfig.toml
+.next
+.out
+.DS_Store
+apps/server/.env
+apps/server/.env.local
+apps/server/.data
+apps/server/src/.data
+src/.data
+dist
+coverage

@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "target": "ES2024",
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "lib": ["DOM", "DOM.Iterable", "ESNext"],
+    "jsx": "react-jsx",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "noEmit": true,
+    "baseUrl": ".",
+    "paths": {
+      "@llm/*": ["packages/llm/src/*"],
+      "@shared/*": ["packages/shared/src/*"],
+      "@env/*": ["packages/env/src/*"],
+      "@db/*": ["packages/db/src/*"],
+      "@ui/*": ["packages/ui/src/*"],
+      "@config/*": ["packages/config/src/*"]
+    },
+    "types": ["bun-types"]
+  },
+  "include": ["**/*.ts", "**/*.tsx"],
+  "exclude": ["node_modules"]
+}
